@@ -1,7 +1,8 @@
-### Simple Automated Queue
-Your clients deserve to know when they can be expected to get served.
+### Simple Modular(hopefully) Chatbot
+Rule based responses to some queries, and text generation for queries outside the scope of the responses.
 
 ### Provides:
-- Front End for clients connection to the database
-- Queue window for staff to Call/Add/Remove clients
-- Client window to show clients status of Wait/Call
+- Text Generation
+- Standard Responses based on provided scripts 
+- Chat window
+- HTML and CSS components
