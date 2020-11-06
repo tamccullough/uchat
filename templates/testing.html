@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+{% block content %}
+<!-- !PAGE CONTENT! -->
+<div class="{{ theme }}">
+  <h1><b>{{ title }}</b></h1>
+  <h2 class="{{ theme }}-t-blue"><b>{{ chatbot }}</b></h2>
+  <h3><b>Heading 3</b></h3>
+  <h4><b>Heading 4</b></h4>
+  <h5><b>Heading 5</b></h5>
+</div>
+
+<div>
+  <table>
+    <tr>
+      <td class="{{ theme }}-t-blue"> Blue Text</td>
+      <td class="{{ theme }}-t-yellow"> Yellow Text</td>
+      <td class="{{ theme }}-t-green"> Green Text</td>
+      <td class="{{ theme }}-t-red"> Red Text</td>
+    </tr>
+    <tr>
+      <td class="{{ theme }}-t-blue"><b> Blue Text</b></td>
+      <td class="{{ theme }}-t-yellow"><b> Yellow Text</b></td>
+      <td class="{{ theme }}-t-green"><b> Green Text</b></td>
+      <td class="{{ theme }}-t-red"><b> Red Text</b></td>
+    </tr>
+  </table>
+</div>
+  <!-- main content -->
+  <div>
+    <p class="{{ theme }}-t-title">click for <a class="button {{ theme }}-button-d" href="{{ url_for('testing') }}">LINK</a></p>
+  </div>
+  <div>
+    <p class="{{ theme }}-t-title">and another <a class="button {{ theme }}-button-l" href="{{ url_for('testing') }}">LINK</a></p>
+  </div>
+  <div>
+    <a><b>inputs and buttons</b></a>
+    <div>
+        <form method="post" action="/testing">
+    		<table>
+    			<tr>
+    				<td><input class="{{ theme }}-dark inputbox" style="width: 100%;" type="text" id="first" placeholder="dark input box"></td>
+    			</tr>
+          <tr>
+    				<td><input class="{{ theme }}-light inputbox" style="width: 100%;" type="text" id="first" placeholder="light input box"></td>
+    			</tr>
+          <tr>
+            <td><input class="{{ theme }}-action button" style="width: 100%;" type="submit" formaction="/testing" value="action button"/></td>
+          </tr>
+          <tr>
+            <td><button class="{{ theme }}-button-l button" style="width: 100%;" type="button"><a class="{{ theme }}-button-l button"  href="{{ url_for('index') }}">light button</a></button></td>
+            <td><input class="button {{ theme }}-button-d" style="width: 100%;" type="submit" formaction="/testing" value="dark button"></td>
+          </tr>
+    		</table>
+        </form>
+    </div>
+
+</div>
+
+{% endblock %}

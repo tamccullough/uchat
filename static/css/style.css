@@ -271,6 +271,7 @@ img {
   display: block;
   text-align: center;
   justify-content: center;
+  vertical-align: middle;
 }
 
 .xfont{

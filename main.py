@@ -44,5 +44,10 @@ def chat():
     generated_text = generated_text,
     theme = theme, title = title, chatbot = chatbot)
 
+@chats.route('/testing', methods=('GET', 'POST'))
+def testing():
+    return render_template('testing.html',
+    theme = theme, title = title, chatbot = chatbot)
+
 if __name__ == "__main__":
     chats.run()

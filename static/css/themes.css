@@ -122,24 +122,24 @@
 .dark-hover-t:hover {color:#fce5cd !important;}
 .dark-hover-border:hover {border-color:#fce5cd !important;}
 
-.demon {color:#a4c2db !important; background-color:#8a1317 !important;}
-.demon-light {color:#ff293a !important; background-color:#630008 !important;}
-.demon-dark {color:#ff1926 !important; background-color:#140203 !important;}
+.demon {color:#ff000e !important; background-color:#660d10 !important;}
+.demon-light {color:#ff787f !important; background-color:#630008 !important;}
+.demon-dark {color:#ff000e !important; background-color:#140203 !important;}
 .demon-action {color:#ffffff !important; background-color:#ff000e !important;}
-.demon-colour {color:#ff1c24 !important; background-color:#2e031e !important;}
+.demon-colour {color:#ff000e !important; background-color:#2e031e !important;}
 .demon-t {color:#323232 !important;}
-.demon-t-title {color:#ff1c24 !important;}
-.demon-t-blue {color:#5c77e6 !294161;}
-.demon-t-green {color:#225c28 !important;}
-.demon-t-red {color:#631212 !important;}
-.demon-t-yellow {color:#6e6b13 !important;}
-.demon-blue {color:#ffffff !important; background-color:#0e2036 !important;}
-.demon-green {color:#ffffff !important; background-color:#103b13 !important;}
+.demon-t-title {color:#ff000e !important;}
+.demon-t-blue {color:#007bff !important;}
+.demon-t-green {color:#00e813 !important;}
+.demon-t-red {color:#ff000e !important;}
+.demon-t-yellow {color:#f2ff00 !important;}
+.demon-blue {color:#ffffff !important; background-color:#007bff !important;}
+.demon-green {color:#ffffff !important; background-color:#00e813 !important;}
 .demon-red {color:#ffffff !important; background-color:#360e12 !important;}
-.demon-orange {color:#ffffff !important; background-color:#36230d !important;}
-.demon-yellow {color:#ffffff !important; background-color:#3b3409 !important;}
-.demon-button-d {color:#392754 !important;}
-.demon-button-l {color:#6497a1 !important;}
+.demon-orange {color:#ffffff !important; background-color:#ff9d00 !important;}
+.demon-yellow {color:#ffffff !important; background-color:#f2ff00 !important;}
+.demon-button-d {color:#ff9d00 !important;}
+.demon-button-l {color:#f2ff00 !important;}
 .demon-t-poster{font-size:250px!important;}
 .demon-border {border-color:#fce5cd !important;}
 .demon-hover:hover {color:#000 !important; background-color:#fce5cd !important;}
