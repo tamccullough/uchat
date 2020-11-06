@@ -1,7 +1,7 @@
 # Chat-U
 # Todd McCullough 2020
-import tensorflow as tf
-from tensorflow import keras
+#import tensorflow as tf
+#from tensorflow import keras
 import numpy as np
 import pandas as pd
 import os
@@ -9,9 +9,9 @@ import time
 
 from datetime import date, datetime, timedelta
 
-chat_predict = tf.keras.models.load_model('model/chat_predict.h5')
+#chat_predict = tf.keras.models.load_model('model/chat_predict.h5')
 
-path_to_file = 'chats.txt'# Read, then decode for py2 compat.
+path_to_file = 'datasets/chats.txt'# Read, then decode for py2 compat.
 text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
 vocab = sorted(set(text))
 

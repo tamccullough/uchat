@@ -17,7 +17,7 @@
           <!-- user-chat -->
           <li class="clearfix">
             <div class="align-right">
-              <span>10:10 AM, Today</span> &nbsp;
+              <span>{{ post_time+' '+period }}, {{ month+' '+day }}</span> &nbsp;
               <span>You</span> <i class="{{ theme }}-t-green fa fa-circle"></i>
               &nbsp;
             </div>
@@ -31,7 +31,7 @@
             <div>
               &nbsp;
               <span><i class="{{ theme }}-t-green fa fa-circle online"></i> {{ chatbot }}</span>
-              <span>10:12 AM, Today</span>
+              <span>{{ post_time+' '+period }}, {{ month+' '+day }}</span>
             </div>
             <div class="speech-bubble-left float-left">
               {{ generated_text.at[i,'responses'] }}
