@@ -1,0 +1,121 @@
+
+/*from https://projects.verou.me/bubbly/ */
+/* and from https://codepen.io/drehimself/pen/KdXwxR */
+
+:root {
+  --yellow: #dbd400;
+  --green: #00ba03;
+  --blue: #007FBB;
+  --purple: #9500BB;
+	--red: #db0000;
+	--orange: #db8b00;
+  --grey: #8f8f8f;
+	--white: #ededed;
+	--black: #12001c;
+}
+
+ul {
+	padding: 0;
+  list-style-type: none;
+}
+
+.speech-bubble-right {
+	color: white;
+	max-width: 50%;
+	line-height: 1.5;
+	position: relative;
+	background: var(--red); /*demon*/
+	/*background: var(--blue); regular*/
+	border-radius: .4em;
+	padding: 10px 10px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.speech-bubble-left {
+	color: white;
+	max-width: 50%;
+	line-height: 1.5;
+	position: relative;
+	background: var(--black); /*demon*/
+	/*background: var(--purple); regular*/
+	border-radius: .4em;
+	padding: 10px 10px;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.speech-bubble-left:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 25%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-right-color: var(--black); /*demon*/
+	/*border-right-color: var(--purple); regular */
+	border-left: 0;
+	border-top: 0;
+	margin-top: -5px;
+	margin-left: -10px;
+}
+
+.speech-bubble-right:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 25%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: var(--red); /*demon*/
+	/*border-left-color: var(--blue); regular */
+	border-right: 0;
+	border-top: 0;
+	margin-top: -5px;
+	margin-right: -10px;
+}
+
+@media screen and (max-width: 500px) {
+	.speech-bubble-left {max-width: 75%;}
+	.speech-bubble-right {max-width: 75%;}
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.online, .offline {
+    margin-right: 3px;
+    font-size: 10px;
+  }
+
+.online {
+  color: $green;
+}
+
+.offline {
+  color: $orange;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.float-right {
+  float: right;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}

@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+{% block content %}
+  <!-- Header -->
+  <div class="titlediv">
+    <h1><b>{{ title }}</b></h1>
+  </div>
+<!-- main content -->
+<div class="spacer"></div>
+<!-- chat section -->
+<div class="chatdiv {{ theme }}-light {{ theme }}-t-blue">
+  <div class="spacer"></div>
+    <!-- end chat-header -->
+    {% for i in range(generated_text.shape[0]) %}
+    <div>
+      <ul>
+        {% if i % 2 == 0 %}
+        <!-- user-chat -->
+        <li class="clearfix">
+          <div class="align-right">
+            <span>10:10 AM, Today</span> &nbsp;
+            <span>You</span> <i class="{{ theme }}-t-green fa fa-circle"></i>
+            &nbsp;
+          </div>
+          <div class="speech-bubble-right float-right">
+            {{ generated_text.at[i,'responses'] }}
+          </div>
+        </li>
+        {% else %}
+        <!-- chatbot-chat -->
+        <li class="clearfix">
+          <div>
+            &nbsp;
+            <span><i class="{{ theme }}-t-green fa fa-circle online"></i>  {{ chatbot }}</span>
+            <span>10:12 AM, Today</span>
+          </div>
+          <div class="speech-bubble-left float-left">
+            {{ generated_text.at[i,'responses'] }}
+          </div>
+        </li>
+        {% endif %}
+      </ul>
+      </div> <!-- end chat-history -->
+      {% endfor %}
+      <!-- end chat -->
+      <div class="spacer"></div>
+    </div>
+  <!-- end chat section -->
+  <div class="spacer"></div>
+    <!-- main content -->
+  <div class="inputdiv center">
+    <form method="POST" action="/generate">
+      <input class="{{ theme }}-dark inputbox" style="width: 75%;" type="text" id="generate" placeholder=" say hi to {{ chatbot }}!" required name="generate" name="generate">
+      <button class="{{ theme }}-action button" style="width: 23%;" type="submit">
+        <i class="white fa fa-paper-plane"></i></button>
+    </form>
+  </div>
+<!-- end of main content -->
+
+<script id="message-template" type="text/x-handlebars-template">
+<li class="clearfix">
+  <div class="message-data align-right">
+    <span class="message-data-time" >{{time}}, Today</span> &nbsp; &nbsp;
+    <span class="message-data-name" >Olia</span> <i class="fa fa-circle me"></i>
+  </div>
+  <div class="message other-message float-right">
+    {{messageOutput}}
+  </div>
+</li>
+</script>
+
+<script id="message-response-template" type="text/x-handlebars-template">
+<li>
+  <div class="message-data">
+    <span class="message-data-name"><i class="fa fa-circle online"></i> Vincent</span>
+    <span class="message-data-time">{{time}}, Today</span>
+  </div>
+  <div class="message my-message">
+    {{response}}
+  </div>
+</li>
+</script>
+
+{% endblock %}

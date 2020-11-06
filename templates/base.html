@@ -1,0 +1,46 @@
+<!--
+Author: Todd McCullough
+Filename: base.html
+Date: 22 October 2020
+-->
+
+<!DOCTYPE html>
+<html>
+<title>Chatbot</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="static/css/themes.css">
+<link rel="stylesheet" href="static/css/style.css">
+<link rel="stylesheet" href="static/css/chat.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link  rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html {font-family: 'Lato', sans-serif;}
+h1,h4 {font-family: 'Pacifico', sans-serif;}
+body,h2,h3,h5 {font-family: 'Roboto', sans-serif;}
+</style>
+<body class=" {{ theme }}-colour">
+<div class="maindiv">
+  <!-- !PAGE CONTENT! -->
+<!-- top container -->
+
+{% block content %}
+{% endblock %}
+
+  <!-- footer -->
+  <footer class="titlediv">
+    <h4 class="{{ theme }}-t-title"><b>Powered by Fifi</b></h4>
+    <a class=" {{ theme }}-t-title"><b>Todd McCullough</b></a>&nbsp;
+    <a href="https://twitter.com/tamccullough" target="_blank"><i class="{{ theme }}-t-title fa fa-twitter"></i></a>&nbsp;
+    <a href="https://twitter.com/tamccullough" target="_blank"><i class="{{ theme }}-t-title fa fa-github"></i></a>&nbsp;
+    <a href="https://twitter.com/tamccullough" target="_blank"><i class="{{ theme }}-t-title fa fa-linkedin"></i></a>
+  </footer>
+
+  <!-- End page content -->
+</div>
+
+</body>
+</html>
