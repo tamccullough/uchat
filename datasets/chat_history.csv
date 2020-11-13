@@ -1,7 +1,7 @@
-num,date,user,text
-1,03-18-2020,you,Dude!
-2,03-18-2020,nomed,sup
-3,03-18-2020,you,How are you doing?
-4,03-18-2020,nomed,not so well
-5,03-18-2020,you,Really?
-6,03-18-2020,nomed,i'm lonely
+num,day,month,year,weekday,user,text
+1,11,13,2020,Friday,you,Dude!
+2,11,13,2020,Friday,nomed,sup
+3,11,13,2020,Friday,you,How are you doing?
+4,11,13,2020,Friday,nomed,not so well
+5,11,13,2020,Friday,you,Really?
+6,11,13,2020,Friday,nomed,i'm lonely
