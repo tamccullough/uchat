@@ -12,7 +12,7 @@ import pandas as pd
 from datetime import date, datetime, timedelta
 
 theme = 'demon'
-chatbot = 'Nomedicus'
+chatbot = 'Ouija'
 title = 'Talk To '+chatbot
 
 today_other = date.today()
