@@ -34,6 +34,8 @@ chats = Flask(__name__)
 def index():
     chats = pd.read_csv('datasets/chat_history.csv')
     chats = chats.tail(6)
+    chats = chats.reset_index()
+    chats.pop('index')
     chats['month'] = chats['month'].apply(lambda x: calendar.month_name[x])
     print(chats)
     print(post_time, today_other,month, day, weekday)
@@ -47,23 +49,31 @@ def index():
 @chats.route('/speak', methods=['GET','POST'])
 def speak():
     chats = pd.read_csv('datasets/chat_history.csv')
-    chats = chats.tail(6)
 
     num = chats['num'].tail(1).values[0]
     month_num = datetime.today().strftime('%m')
     sentence = request.form['generate']
     new_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'you',sentence]],columns=chats.columns)
     chats = pd.concat([chats,new_chat])
+    print('dataframe 1\n',chats,'\n')
     generated_chat = cbu.generate_text(start_string=sentence+u'\n',temperature=0.45)
     nom = chats['num'].tail(1).values[0]
     nomed_chat = pd.DataFrame([[nom+1, month_num, day, year, weekday, 'nomed',generated_chat]],columns=chats.columns)
+    chats = pd.concat([chats,nomed_chat])
+    print('dataframe 2\n',chats,'\n')
+    print('\nNOW',post_time, today_other,month, day, weekday)
 
     chats.to_csv('datasets/chat_history.csv',index=False)
-    chats['month'] = chats['month'].astype('int32')
-    chats['month'] = chats['month'].apply(lambda x: calendar.month_name[x])
+    chats = pd.read_csv('datasets/chat_history.csv')
+    chats = chats.tail(6)
+    chats = chats.reset_index()
+    chats.pop('index')
+    chats['month'] = chats['month'].apply(lambda x: calendar.month_name[int(x)])
+
 
     return render_template('index.html',
-    generated_text = chats,
+    generated_text = chats, today = today_other, post_time = post_time, period = period,
+    month = month, day = day,
     theme = theme, title = title, chatbot = chatbot)
 
 # testing section
