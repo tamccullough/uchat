@@ -45,7 +45,7 @@ def index():
 def speak():
     sentence = request.form['generate']
     chats = pd.read_csv('datasets/chat_history.csv')
-    generated_chat = cbu.generate_text(start_string=sentence+u'\n', temperature=0.45)
+    generated_chat = cbu.generate_text(start_string=sentence+u'\n',temperature=0.45)
 
     return render_template('index.html',
     generated_text = chats,

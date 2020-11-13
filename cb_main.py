@@ -10,7 +10,7 @@ import tensorflow as tf
 
 from datetime import date, datetime, timedelta
 
-chat_predict = tf.keras.models.load_model('model/chat_saved.h5')
+chats_predict = tf.keras.models.load_model('model/chats_saved.h5', compile=False)
 
 path_to_file = 'datasets/chats.txt'# Read, then decode for py2 compat.
 text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
@@ -44,9 +44,9 @@ def generate_text(start_string,temperature):
     # Experiment to find the best setting.
 
     # Here batch size == 1
-    chat_predict.reset_states()
+    chats_predict.reset_states()
     for i in range(num_generate):
-        predictions = chat_predict(input_eval)
+        predictions = chats_predict(input_eval)
         # remove the batch dimension
         predictions = tf.squeeze(predictions, 0)
 
@@ -59,14 +59,12 @@ def generate_text(start_string,temperature):
         input_eval = tf.expand_dims([predicted_id], 0)
 
         text_generated.append(idx2char[predicted_id])
+    responses = ''.join(text_generated)
 
-
-    response = ''.join(text_generated)
-
-    if response.splitlines()[0] == '':
-        return response.splitlines()[1]
+    if responses.splitlines()[0] == '':
+        return responses.splitlines()[1]
     else:
-        return response.splitlines()[0]
+        return responses.splitlines()[0]
 
 # get the weather
 from pyowm import OWM
