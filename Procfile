@@ -1,1 +1,1 @@
-web: gunicorn main:uchat
+web: gunicorn main:chats
