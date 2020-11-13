@@ -3,6 +3,7 @@
 from flask import Flask
 from flask import Blueprint, flash, g, redirect, render_template, request, session, url_for
 
+import calendar
 import cb_main as cbu
 
 import numpy as np
@@ -24,6 +25,7 @@ if hour > 12:
     period = 'PM'
 post_time = str(hour)+':'+minute
 month, day, weekday = cbu.get_weekday()
+year = datetime.today().strftime('%Y')
 
 chats = Flask(__name__)
 
@@ -32,6 +34,7 @@ chats = Flask(__name__)
 def index():
     chats = pd.read_csv('datasets/chat_history.csv')
     chats = chats.tail(6)
+    chats['month'] = chats['month'].apply(lambda x: calendar.month_name[x])
     print(chats)
     print(post_time, today_other,month, day, weekday)
 
@@ -43,9 +46,21 @@ def index():
 # generated chats will end up here
 @chats.route('/speak', methods=['GET','POST'])
 def speak():
-    sentence = request.form['generate']
     chats = pd.read_csv('datasets/chat_history.csv')
+    chats = chats.tail(6)
+
+    num = chats['num'].tail(1).values[0]
+    month_num = datetime.today().strftime('%m')
+    sentence = request.form['generate']
+    new_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'you',sentence]],columns=chats.columns)
+    chats = pd.concat([chats,new_chat])
     generated_chat = cbu.generate_text(start_string=sentence+u'\n',temperature=0.45)
+    nom = chats['num'].tail(1).values[0]
+    nomed_chat = pd.DataFrame([[nom+1, month_num, day, year, weekday, 'nomed',generated_chat]],columns=chats.columns)
+
+    chats.to_csv('datasets/chat_history.csv',index=False)
+    chats['month'] = chats['month'].astype('int32')
+    chats['month'] = chats['month'].apply(lambda x: calendar.month_name[x])
 
     return render_template('index.html',
     generated_text = chats,

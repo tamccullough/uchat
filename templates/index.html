@@ -17,7 +17,7 @@
           <!-- user-chat -->
           <li class="clearfix">
             <div class="align-right">
-              <span>{{ post_time+' '+period }}, {{ month+' '+day }}</span> &nbsp;
+              <span>{{ post_time+' '+period }}, {{ generated_text.at[i,'month'] }} {{ generated_text.at[i,'day'] }}</span> &nbsp;
               <span>You</span> <i class="{{ theme }}-t-green fa fa-circle"></i>
               &nbsp;
             </div>
@@ -31,7 +31,7 @@
             <div>
               &nbsp;
               <span><i class="{{ theme }}-t-green fa fa-circle online"></i> {{ chatbot }}</span>
-              <span>{{ post_time+' '+period }}, {{ month+' '+day }}</span>
+              <span>{{ post_time+' '+period }}, {{ generated_text.at[i,'month'] }} {{ generated_text.at[i,'day'] }}</span>
             </div>
             <div class="speech-bubble-left float-left">
               {{ generated_text.at[i,'text'] }}
@@ -48,8 +48,8 @@
 <div class="spacer"></div>
   <!-- main content -->
   <div class="inputdiv center">
-    <form method="POST" action="/generate">
-      <input class="{{ theme }}-light inputbox" style="width: 75%;" type="text" id="generate" placeholder=" say hi to {{ chatbot }}!" required name="generate" name="generate">
+    <form method="POST" action="/speak">
+      <input class="{{ theme }}-light inputbox" style="width: 75%;" type="text" id="generate" name="generate" placeholder=" say hi to {{ chatbot }}!" autocomplete="off" required>
       <button class="{{ theme }}-action button" style="width: 23%;" type="submit">
         <i class="white fa fa-paper-plane"></i></button>
     </form>
