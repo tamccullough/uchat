@@ -11,7 +11,7 @@ import pandas as pd
 from datetime import date, datetime, timedelta
 
 theme = 'demon'
-chatbot = 'Demonicus'
+chatbot = 'Nomedicus'
 title = 'Talk To '+chatbot
 
 today_other = date.today()
@@ -30,31 +30,34 @@ chats = Flask(__name__)
 # index root for the chatbot
 @chats.route('/')
 def index():
-    generated_text = pd.read_csv('datasets/chatbot-users-testing.csv')
+    chats = pd.read_csv('datasets/chat_history.csv')
+    chats = chats.tail(6)
+    print(chats)
     print(post_time, today_other,month, day, weekday)
 
     return render_template('index.html',
-    generated_text = generated_text, today = today_other, post_time = post_time, period = period,
+    generated_text = chats, today = today_other, post_time = post_time, period = period,
     month = month, day = day,
     theme = theme, title = title, chatbot = chatbot)
 
 # generated chats will end up here
-@chats.route('/speak', methods=['POST'])
+@chats.route('/speak', methods=['GET','POST'])
 def speak():
     sentence = request.form['generate']
-    generated_text = cbu.generate_text(start_string=sentence+u'\n',temperature = 0.9)
+    chats = pd.read_csv('datasets/chat_history.csv')
+    generated_chat = cbu.generate_text(start_string=sentence+u'\n', temperature=0.45)
 
     return render_template('index.html',
-    generated_text = generated_text,
+    generated_text = chats,
     theme = theme, title = title, chatbot = chatbot)
 
 # testing section
 @chats.route('/chat')
 def chat():
-    generated_text = pd.read_csv('datasets/chatbot-users-responses.csv')
+    chats = pd.read_csv('datasets/chat_history.csv')
 
     return render_template('chats.html',
-    generated_text = generated_text,
+    generated_text = chats,
     theme = theme, title = title, chatbot = chatbot)
 
 @chats.route('/testing', methods=('GET', 'POST'))

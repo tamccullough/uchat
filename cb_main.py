@@ -6,10 +6,11 @@ import numpy as np
 import pandas as pd
 import os
 import time
+import tensorflow as tf
 
 from datetime import date, datetime, timedelta
 
-#chat_predict = tf.keras.models.load_model('model/chat_predict.h5')
+chat_predict = tf.keras.models.load_model('model/chat_predict.h5')
 
 path_to_file = 'datasets/chats.txt'# Read, then decode for py2 compat.
 text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
@@ -61,7 +62,11 @@ def generate_text(start_string,temperature):
 
 
     response = ''.join(text_generated)
-    return response.partition('\n')[0]
+
+    if response.splitlines()[0] == '':
+        return response.splitlines()[1]
+    else:
+        return response.splitlines()[0]
 
 # get the weather
 from pyowm import OWM

@@ -13,7 +13,7 @@
       {% for i in range(generated_text.shape[0]) %}
       <div>
         <ul>
-          {% if i % 2 == 0 %}
+          {% if generated_text.at[i,'user'] == 'you' %}
           <!-- user-chat -->
           <li class="clearfix">
             <div class="align-right">
@@ -22,7 +22,7 @@
               &nbsp;
             </div>
             <div class="speech-bubble-right float-right">
-              {{ generated_text.at[i,'responses'] }}
+              {{ generated_text.at[i,'text'] }}
             </div>
           </li>
           {% else %}
@@ -34,7 +34,7 @@
               <span>{{ post_time+' '+period }}, {{ month+' '+day }}</span>
             </div>
             <div class="speech-bubble-left float-left">
-              {{ generated_text.at[i,'responses'] }}
+              {{ generated_text.at[i,'text'] }}
             </div>
           </li>
           {% endif %}
