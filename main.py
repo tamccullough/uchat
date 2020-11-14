@@ -75,7 +75,10 @@ def generate():
 
     month_num = datetime.today().strftime('%m')
     sentence = chats['text'].tail(1).values[0]
-    generated_chat = cbu.generate_text(start_string=sentence+u'\n',temperature=0.45)
+    string = sentence.replace('?','.')
+    string = sentence.replace('!','.')
+    string = string.split('.')[0]
+    generated_chat = cbu.generate_text(start_string=string+u'\n',temperature=0.45)
     num = chats['num'].tail(1).values[0]
     nomed_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'nomed',generated_chat]],columns=chats.columns)
     chats = pd.concat([chats,nomed_chat])
