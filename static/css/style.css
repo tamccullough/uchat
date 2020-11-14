@@ -198,13 +198,11 @@ body {
 
 .spacer {
   height: 10px;
-  border: none;
   background-color:inherit;
 }
 
 .spacerL {
   height: 100px;
-  border: none;
   background-color:inherit;
 }
 
@@ -325,6 +323,14 @@ nav select option {
 }
 
 /* decoration */
+
+.borderc {
+  border-radius: 1rem;
+}
+
+.borderq {
+  border-radius: 0.5rem;
+}
 
 .bottombar {
   border-bottom:6px solid #ccc!important;

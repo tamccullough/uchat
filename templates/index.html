@@ -5,10 +5,8 @@
     <h1><a class="{{ theme }}-t-red button" href="{{ url_for('index') }}"><b>{{ title }}</b></a></h1>
   </div>
 <!-- main content -->
-<div class="spacer"></div>
 <!-- chat section -->
-<div class="chatdiv {{ theme }}-light {{ theme }}-t-blue">
-    <div class="spacer"></div>
+<div class="borderc chatdiv {{ theme }}-light">
       <!-- end chat-header -->
       {% for i in range(generated_text.shape[0]) %}
       <div>
@@ -39,20 +37,23 @@
           </li>
           {% endif %}
         </ul>
-      </div> <!-- end chat-history -->
+      </div>
+      <!-- end chat-history -->
       {% endfor %}
     <!-- end chat -->
-    <div class="spacer"></div>
   </div>
 <!-- end chat section -->
+
 <div class="spacer"></div>
-  <!-- main content -->
+
+<!-- user chat section -->
   <div class="inputdiv center">
     <form method="POST" action="/~">
-      <input class="{{ theme }}-light inputbox" style="width: 75%;" type="text" id="generate" name="generate" placeholder=" say hi to {{ chatbot }}!" autocomplete="off" required>
-      <button class="{{ theme }}-action button" style="width: 23%;" type="submit">
+      <input class="borderc {{ theme }}-light inputbox" style="width: 90%;" type="text" id="generate" name="generate" placeholder=" say hi to {{ chatbot }}!" autocomplete="off" required>
+      <button class="borderc {{ theme }}-action button" style="width: 8%;" type="submit">
         <i class="white fa fa-paper-plane"></i></button>
     </form>
   </div>
+<!-- end of section -->
 
 {% endblock %}
