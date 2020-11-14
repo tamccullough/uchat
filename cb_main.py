@@ -6,11 +6,10 @@ import numpy as np
 import pandas as pd
 import os
 import time
-import tensorflow as tf
 
 from datetime import date, datetime, timedelta
 
-chats_predict = tf.keras.models.load_model('model/chats_saved.h5', compile=False)
+#chats_predict = tf.keras.models.load_model('model/chats_saved.h5', compile=False)
 
 path_to_file = 'datasets/chats.txt'# Read, then decode for py2 compat.
 text = open(path_to_file, 'rb').read().decode(encoding='utf-8')

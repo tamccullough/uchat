@@ -45,9 +45,9 @@ def index():
     month = month, day = day,
     theme = theme, title = title, chatbot = chatbot)
 
-# generated chats will end up here
-@chats.route('/speak', methods=['GET','POST'])
-def speak():
+# post user's text before getting the prediction or other function result
+@chats.route('/~', methods=['GET','POST'])
+def post():
     chats = pd.read_csv('datasets/chat_history.csv')
 
     num = chats['num'].tail(1).values[0]
@@ -55,10 +55,29 @@ def speak():
     sentence = request.form['generate']
     new_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'you',sentence]],columns=chats.columns)
     chats = pd.concat([chats,new_chat])
-    print('dataframe 1\n',chats,'\n')
+
+    chats.to_csv('datasets/chat_history.csv',index=False)
+    chats = pd.read_csv('datasets/chat_history.csv')
+    chats = chats.tail(6)
+    chats = chats.reset_index()
+    chats.pop('index')
+    chats['month'] = chats['month'].apply(lambda x: calendar.month_name[int(x)])
+
+    return render_template('chats.html',
+    generated_text = chats, today = today_other, post_time = post_time, period = period,
+    month = month, day = day,
+    theme = theme, title = title, chatbot = chatbot)
+
+# generated chats will end up here
+@chats.route('/-')
+def generate():
+    chats = pd.read_csv('datasets/chat_history.csv')
+
+    month_num = datetime.today().strftime('%m')
+    sentence = chats['text'].tail(1).values[0]
     generated_chat = cbu.generate_text(start_string=sentence+u'\n',temperature=0.45)
-    nom = chats['num'].tail(1).values[0]
-    nomed_chat = pd.DataFrame([[nom+1, month_num, day, year, weekday, 'nomed',generated_chat]],columns=chats.columns)
+    num = chats['num'].tail(1).values[0]
+    nomed_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'nomed',generated_chat]],columns=chats.columns)
     chats = pd.concat([chats,nomed_chat])
     print('dataframe 2\n',chats,'\n')
     print('\nNOW',post_time, today_other,month, day, weekday)
@@ -74,20 +93,6 @@ def speak():
     return render_template('index.html',
     generated_text = chats, today = today_other, post_time = post_time, period = period,
     month = month, day = day,
-    theme = theme, title = title, chatbot = chatbot)
-
-# testing section
-@chats.route('/chat')
-def chat():
-    chats = pd.read_csv('datasets/chat_history.csv')
-
-    return render_template('chats.html',
-    generated_text = chats,
-    theme = theme, title = title, chatbot = chatbot)
-
-@chats.route('/testing', methods=('GET', 'POST'))
-def testing():
-    return render_template('testing.html',
     theme = theme, title = title, chatbot = chatbot)
 
 if __name__ == "__main__":
