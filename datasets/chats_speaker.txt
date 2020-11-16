@@ -1,0 +1,3742 @@
+responses
+you: Dude
+nomed: Sup
+you: Hello
+nomed: Hi
+you: Hey man
+nomed: What's up?
+you: Hello
+nomed: Hello
+you: Yo!
+nomed: Yo
+you: Hi
+nomed: Hello
+you: hello, how are you?
+nomed: I'm fine thank you. And you?
+you: I'm good.
+nomed: good.
+you: hey bot
+nomed: Hey human
+you: hi robot
+nomed: Hi human!
+you: hi bot
+nomed: Hello human
+you: hey robot
+nomed: Hey human!
+you: Hi there
+nomed: How's it goin?
+you: Hi, how are you?
+nomed: I'm fine thank you. How are you?
+you: Hola!
+nomed: Yo!
+you: Howdy
+nomed: Hey there
+you: How are you?
+nomed: I am good
+you: I'm good, how are you?
+nomed: That is good to hear
+you: Thank you.
+nomed: You are welcome.
+you: You are welcome.
+nomed: Thank you.
+you: i'm fine. how about yourself?
+nomed: i'm pretty good. thanks for asking.
+you: no problem. so how have you been?
+nomed: i've been great. what about you?
+you: i'm good.
+nomed: cool.
+you: how's it going?
+nomed: i'm doing well. how about you?
+you: never better, thanks.
+nomed: so how have you been lately?
+you: i've actually been pretty good. you?
+nomed: trying to get through the pandemic. you know?
+you: i hear you. masks on!
+nomed: i forgot mine the other day. felt so bad.
+you: it happens.
+nomed: yeah, but I still felt bad.
+you: don't worry about it. it happens.
+nomed: yeah, true.
+you: i'm doing great. what about you?
+nomed: i'm fantastic, thank you.
+you: everything's been good with you?
+nomed: yep. how about yourself?
+you: i started school recently.
+nomed: where are you going to school?
+you: i know. i think it may rain.
+nomed: it's the middle of summer, it shouldn't rain today.
+you: that would be weird.
+nomed: yeah, especially since it's ninety degrees outside.
+you: i know, it would be horrible if it rained and it was hot outside.
+nomed: yes, it would be.
+you: i really wish it wasn't so hot every day.
+nomed: me too. i can't wait until winter.
+you: i like winter too, but sometimes it gets too cold.
+nomed: i'd rather be cold than hot.
+you: me too.
+nomed: you're right. i think it's going to rain later.
+you: in the middle of the summer, it shouldn't be raining.
+nomed: that wouldn't seem right.
+you: considering that it's over ninety degrees outside, that would be weird.
+nomed: exactly, it wouldn't be nice if it started raining. it's too hot.
+you: i know, you're absolutely right.
+nomed: i wish it would cool off one day.
+you: that's how i feel, i want winter to come soon.
+nomed: i enjoy the winter, but it gets really cold sometimes.
+you: i know what you mean, but i'd rather be cold than hot.
+nomed: that's exactly how i feel.
+you: that is true. i hope it doesn't rain.
+nomed: it wouldn't rain in the middle of the summer.
+you: it wouldn't seem right if it started raining right now.
+nomed: it would be weird if it started raining in ninety degree weather.
+you: any rain right now would be pointless.
+nomed: that's right, it really would be.
+you: i want it to cool down some.
+nomed: i know what you mean, i can't wait until it's winter.
+you: winter is great. i wish it didn't get so cold sometimes though.
+nomed: i would rather deal with the winter than the summer.
+you: yes, it is.
+nomed: it looks like it may rain soon.
+you: yes, and i hope that it does.
+nomed: why is that?
+you: i really love how rain clears the air.
+nomed: me too. it always smells so fresh after it rains.
+you: yes, but i love the night air after it rains.
+nomed: really? why is it?
+you: because you can see the stars perfectly.
+nomed: i really hope it rains today.
+you: yeah, me too.
+nomed: it really is.
+you: it seems that it may rain today.
+nomed: hopefully it will.
+you: how come?
+nomed: i like how clear the sky gets after it rains.
+you: i feel the same way. it smells so good after it rains.
+nomed: i especially love the night air when it rains.
+you: really? why?
+nomed: the stars look so much closer after it rains.
+you: i really want it to rain today.
+nomed: yeah, so do i.
+you: yes, i think so too.
+nomed: i think that it's going to rain.
+you: i hope that it does rain.
+nomed: you like the rain?
+you: the sky looks so clean after it rains. i love it.
+nomed: i understand. rain does make it smell cleaner.
+you: i love most how it is at night after it rains.
+nomed: how come?
+you: you can see the stars so much more clearly after it rains.
+nomed: i would love for it to rain today.
+you: that sounds like fun. what's the weather going to be like?
+nomed: i heard that it's going to be warm this weekend.
+you: is it going to be perfect beach weather?
+nomed: i believe so.
+you: good. i hope it doesn't cool off this weekend.
+nomed: i know. i really want to go to the beach.
+you: but you know that the weather these days is really unpredictable.
+nomed: you're right. one minute it's hot, and then the next minute it's cold.
+you: i really wish the weather would just stay the same.
+nomed: i do too. that way we can have our activities planned ahead of time.
+you: yeah, that would make things a lot easier.
+nomed: a trip to the beach would be fun. how is the weather going to be?
+you: the forecast says that it will be warm on the weekend.
+nomed: so do you think it'll be perfect weather for the beach?
+you: it sounds like it will be.
+nomed: i really hope it doesn't get cold.
+you: that would ruin things, i want to go so badly.
+nomed: the weather is so unpredictable now, so you never know.
+you: that is true. the weather is constantly changing.
+nomed: it would be nice if the weather would never change.
+you: that would be great, then we could plan things sooner.
+nomed: true. predictable weather would make life easier.
+you: what's the weather going to be like? i may want to go too.
+nomed: the weather this weekend is supposed to be warm.
+you: will it be good beach weather?
+nomed: i think it will be.
+you: it wouldn't be good if it got cold this weekend.
+nomed: i want this trip to be perfect, i hope it stays warm.
+you: this weather is so uncertain, it's impossible to know what'll happen.
+nomed: i know. every day the weather seems different.
+you: i would love it if it wasn't always so unpredictable.
+nomed: that would make it easier for us to make plans.
+you: this is she. how's it going?
+nomed: i've been trying to call you all day.
+you: sorry about that. i was cleaning up.
+nomed: it's okay.
+you: so what were you calling me about?
+nomed: oh, i just wanted to see if you wanted to hang out tomorrow.
+you: sure, what did you want to do?
+nomed: maybe we can go see a movie or something.
+you: that sounds like fun. let's do it.
+nomed: i'll see you tomorrow then.
+you: see you then. goodbye.
+nomed: speaking. what's up?
+you: why haven't you answered the phone?
+nomed: my bad, i had chores to do.
+you: that's all right.
+nomed: what was the reason for your call?
+you: i want to do something tomorrow with you.
+nomed: sounds good. what did you have in mind?
+you: i was thinking about seeing a movie.
+nomed: okay, let's go see a movie.
+you: until then.
+nomed: talk to you later.
+you: you're talking to her.
+nomed: i've called you a hundred times today.
+you: i was busy doing something. i apologize.
+nomed: no problem.
+you: did you need something?
+nomed: do you want to do something tomorrow?
+you: is there somewhere special you wanted to go?
+nomed: how about a movie?
+you: a movie sounds good.
+nomed: call me tomorrow then.
+you: no, i haven't.
+nomed: she's really pretty.
+you: describe her to me.
+nomed: she's not too tall.
+you: well, how tall is she?
+nomed: she's about five feet even.
+you: what does she look like, though?
+nomed: she has pretty light brown eyes.
+you: i may know which girl you're talking about.
+nomed: so you have seen her around?
+you: yes, i have.
+nomed: i haven't seen her yet.
+you: i think that she is very pretty.
+nomed: tell me how she looks.
+you: she's kind of short.
+nomed: what height is she?
+you: she's probably about five feet.
+nomed: that's nice, but tell me what she looks like.
+you: the first thing i noticed was her beautiful brown eyes.
+nomed: i think i might've bumped into her before.
+you: are you telling me that you've seen her before?
+nomed: i believe so.
+you: no. have you?
+nomed: she's one of the prettiest girls at the school.
+you: what does she look like?
+nomed: well, she's quite short.
+you: how tall would you say that she is?
+nomed: i would say she's only five feet.
+you: what about her facial features?
+nomed: she has light brown eyes, absolutely beautiful.
+you: i think i know who you're talking about.
+nomed: have you seen her?
+you: i wasn't really feeling well.
+nomed: what was wrong with you?
+you: my stomach was upset.
+nomed: do you feel better now?
+you: i don't really feel too well yet.
+nomed: do you want anything to make you feel better?
+you: no, thanks. i already took some medicine.
+nomed: i hope you feel better.
+you: thank you.
+nomed: i was sick.
+you: how were you sick?
+nomed: i had a stomachache.
+you: did it get any better?
+nomed: i'm still feeling under the weather.
+you: would you like anything for your stomach?
+nomed: i took something earlier.
+you: get better.
+nomed: thanks a lot.
+you: i stayed home because i wasn't feeling well.
+nomed: what was your problem?
+you: my stomach was bothering me.
+nomed: are you feeling any better?
+you: i'm still feeling a little sick.
+nomed: i'm going to the store, would you like any pepto bismol?
+you: that's okay.
+nomed: i hope you feel better.
+you: no, i haven't.
+nomed: i got a promotion at my job.
+you: did you really?
+nomed: seriously, i am so excited.
+you: well, congratulations.
+nomed: thank you.
+you: i'm so happy for you.
+nomed: really?
+you: yes. you really deserved this.
+nomed: you think so?
+you: yes. good for you.
+nomed: you haven't told me anything yet.
+you: i got a promotion at work earlier this week.
+nomed: is that right?
+you: it's the truth. i am really happy.
+nomed: congratulations on your promotion.
+you: thank you very much.
+nomed: i am really excited for you.
+you: are you really?
+nomed: i'm serious. you deserved this promotion.
+you: is that what you really think?
+nomed: yes, i do.
+you: i haven't heard anything.
+nomed: my boss offered me a promotion, and i took it.
+you: are you serious?
+nomed: yes, i am really excited.
+you: that's great. congratulations.
+nomed: i appreciate that.
+you: you have no idea how happy i am for you.
+nomed: for real?
+you: thank you. i just got this outfit the other day.
+nomed: really, where did you get it?
+you: i got it from macy's.
+nomed: it's really nice.
+you: thanks again. you look nice today, too.
+nomed: thank you. i just got these shoes today.
+you: really? what kind of shoes are they?
+nomed: these are called all star chuck taylors.
+you: i really like those. how much did they cost?
+nomed: they were about forty dollars.
+you: i think i'm going to go buy myself a pair.
+nomed: you do? i just bought this outfit a couple days ago.
+you: seriously, it looks really nice on you. where did you buy it from?
+nomed: i bought it from the macy's at the santa anita mall.
+you: i really like that outfit.
+nomed: thanks. i think you look nice today, too.
+you: thank you. i just bought these new shoes earlier today.
+nomed: those are nice. what are they?
+you: these are some chucks.
+nomed: those are great. how much were they?
+you: i got them for forty.
+nomed: i think i might go and find me my own pair of chucks.
+you: is that right? this is a brand new outfit.
+nomed: what store did you get it from?
+you: i went to macy's and picked it out.
+nomed: i love your outfit right now.
+you: well, i think you look nice today too.
+nomed: thanks. i found these new shoes earlier at the store.
+you: i think that those are some really nice shoes. what kind are they?
+nomed: these are chucks.
+you: your shoes look really nice. how much did you get them for?
+nomed: they only cost me about forty dollars.
+you: i enjoy drawing and painting.
+nomed: you know how to draw and paint?
+you: yes, i do.
+nomed: when did you learn how to do that?
+you: i learned back in high school.
+nomed: oh, so you took an art class?
+you: yeah, i loved that class.
+nomed: i see that you're pretty talented.
+you: thank you very much.
+nomed: i wish i had a talent like that.
+you: i'm sure you have a talent. it's just hidden.
+nomed: i've always liked to draw and paint.
+you: i didn't know you knew how to draw and paint.
+nomed: i do it every once in a while.
+you: how long have you known how to do that?
+nomed: i first learned how to do it in high school.
+you: did you take some sort of art class or something?
+nomed: that was my favorite class.
+you: you have got to be talented.
+nomed: thanks.
+you: if only i was talented.
+nomed: you have a talent. you just don't know what it is yet.
+you: when i have time, i sometimes draw and paint.
+nomed: oh, you actually do that?
+you: every so often, i do.
+nomed: did you always know how to draw and paint?
+you: i was taught in high school how to draw and paint.
+nomed: you had an art class?
+you: exactly, it was my favorite class.
+nomed: well, it's good that you're so talented.
+you: i appreciate that.
+nomed: talent is a great thing, i wish i had one.
+you: my favorite movie is superbad.
+nomed: oh, why is that?
+you: it's the funniest movie that i've ever seen.
+nomed: that's true. it is a very funny movie.
+you: you've seen it before?
+nomed: yes, i saw that movie the first day it came out in theaters.
+you: didn't you laugh through the whole movie? i did.
+nomed: me too. that movie brought tears to my eyes.
+you: mine too.
+nomed: i have it on dvd at my house if you want to come over and watch it.
+you: sure, let's go.
+nomed: i have to say, my favorite movie is superbad.
+you: is that right? why?
+nomed: honestly, it is one of the funniest movies i've seen in a long time.
+you: you're right. that movie is hilarious.
+nomed: i didn't think you saw that movie.
+you: i went to see it the day it came out.
+nomed: i was laughing through the whole movie.
+you: i couldn't help laughing, either.
+nomed: same here.
+you: i bought the movie. would you like to come to my house and watch it?
+nomed: of course.
+you: i'm going to have to say that superbad is the best movie ever.
+nomed: you think so, how come?
+you: well, superbad is super funny.
+nomed: you're not lying, i found that movie absolutely hilarious.
+you: i didn't know that you saw superbad before.
+nomed: i made sure to be in line to see it the first day it came out.
+you: i couldn't keep from laughing throughout the whole movie.
+nomed: i was laughing hysterically the whole time; my stomach muscles hurt afterwards.
+you: that's exactly how i felt.
+nomed: i got the movie when it came out on dvd, do you want to come over?
+you: i like listening to different kinds of music.
+nomed: like what, for instance?
+you: i enjoy rock and r&b.
+nomed: why is that?
+you: i like the different instruments that they use.
+nomed: that's a good reason to like something.
+you: yeah, i think so too.
+nomed: i enjoy listening to all kinds of music.
+you: what kind?
+nomed: i like to listen to rap.
+you: why do you like that type of music?
+nomed: it's just the most progressive genre today.
+you: i think that's an excellent reason to like something.
+nomed: thanks, i feel the same way.
+you: i listen to various types of music.
+nomed: what genres?
+you: i enjoy listening to both rock and electronica.
+nomed: what interests you in that type of music?
+you: i enjoy the different types of instruments that they use.
+nomed: that is a perfect reason to like a certain kind of music.
+you: no, i couldn't make it.
+nomed: you missed a really good game.
+you: oh, really? who won?
+nomed: our school did. they played really well.
+you: too bad i was busy. i really wanted to go.
+nomed: yeah, you should have. it was really exciting.
+you: so what was the score?
+nomed: the score was 3-2.
+you: man, that was a really close game.
+nomed: that's what made it so great.
+you: i'll make sure and make it to the next one.
+nomed: i was unable to make it.
+you: you should have been there. it was intense.
+nomed: is that right. who ended up winning?
+you: our team was victorious.
+nomed: i wish i was free that night. i'm kind of mad that i didn't go.
+you: it was a great game.
+nomed: what was the score at the end of the game?
+you: our team won 3-2.
+nomed: sounds like it was a close game.
+you: that's the reason it was such a great game.
+nomed: the next game, i will definitely be there.
+you: i wanted to go, but i couldn't.
+nomed: it was a great game.
+you: it's too bad that i couldn't make it. who won?
+nomed: our team played hard and won.
+you: i really wish i went to the game.
+nomed: it was the best game ever.
+you: so tell me the final score.
+nomed: the other team lost by three points, 101-98.
+you: it must've been a close game.
+nomed: it really was. you should've gone.
+you: i'm going to the movies with a friend. how about you?
+nomed: i'm not sure yet.
+you: well, did you want to go see a movie with me?
+nomed: what movie are you going to see?
+you: i'm not sure yet. is there something you want to see?
+nomed: there's nothing i can think of.
+you: so, did you want to go?
+nomed: no, thanks, maybe another time.
+you: okay, sounds good.
+nomed: i am going to see a movie with a friend of mine. what about you?
+you: i don't know.
+nomed: would you like to see a movie with me and my friend?
+you: do you know what movie you're going to watch?
+nomed: i don't know, but was there a certain movie you wanted to see?
+you: none that i can think of.
+nomed: well, would you like to go?
+you: thank you for inviting me, but i think i'll pass.
+nomed: all right. another time then.
+you: i'm going to the movie theater with my friend. what are you going to do?
+nomed: i'm not quite sure yet.
+you: how about you see a movie with me and my friend?
+nomed: what movie are you and your friend planning on watching?
+you: not sure. is there a movie out that catches your eye?
+nomed: no good movies come to mind.
+you: have you decided whether or not you would like to go?
+nomed: no, thanks. maybe another time.
+you: yeah, i went to school today. were you there?
+nomed: no, i didn't go, i've been sick.
+you: that sucks. did you want the assignments from english class?
+nomed: that would be nice, thank you.
+you: no problem, you're welcome.
+nomed: i will be glad to do the same for you when you're sick.
+you: well, thank you. i hope to see you at school tomorrow.
+nomed: i attended school today. did you?
+you: i wasn't able to attend school because i was feeling ill.
+nomed: i'm sorry to hear that. would you like the assignments from english class?
+you: i would really appreciate that, thanks.
+nomed: it's no trouble at all.
+you: if you get sick, i'll return the favor.
+nomed: thanks. see you at school tomorrow if you feel better.
+you: i went to school today. did you go to school?
+nomed: i couldn't go to school today, i was sick.
+you: that's horrible. i'd be happy to give you the assignments from english class.
+nomed: thank you very much, that's kind of you.
+you: don't mention it.
+nomed: when you miss a day of school, i'll be happy to give you the english assignments.
+you: what happened?
+nomed: our cousin went into labor and had her baby last week.
+you: she did? why didn't anyone tell me?
+nomed: i would've thought that somebody would have told you.
+you: no, i had no idea.
+nomed: well, she did, her baby was 8 pounds 6 ounces.
+you: oh my god, that's great!
+nomed: are you going to go and visit her and the baby?
+you: i think that i might.
+nomed: good! i just thought i'd let you know.
+you: thanks for telling me.
+nomed: heard what?
+you: debrah already had her baby.
+nomed: i didn't know that.
+you: i thought you knew.
+nomed: i honestly didn't know.
+you: the baby was 8 pounds 6 ounces.
+nomed: that's good to hear.
+you: will you go and visit them?
+nomed: of course i will.
+you: i just wanted to give you the good news.
+nomed: thanks for letting me know.
+you: i haven't heard anything.
+nomed: debrah had her baby last week.
+you: nobody told me.
+nomed: i thought you heard.
+you: i really wasn't told anything.
+nomed: she was a cute 8 pounds 6 ounces.
+you: wow, how exciting.
+nomed: i know, you should really go and see her and the baby.
+you: of course i will.
+nomed: i just wanted to let you know what happened.
+you: of course. did you?
+nomed: i didn't want to, so i didn't.
+you: that's sad, but have you gone to the movies recently?
+nomed: that's a switch.
+you: i'm serious, have you?
+nomed: no, i haven't. why?
+you: i really want to go to the movies this weekend.
+nomed: so go then.
+you: i really don't want to go by myself.
+nomed: well anyway, do you plan on going to school tomorrow?
+you: no, i think i'm going to go to the movies.
+nomed: i always do. did you go to school today?
+you: no, i didn't.
+nomed: you should have, but have you seen any movies lately?
+you: that was an odd change of subject.
+nomed: maybe it was, but answer the question.
+you: no, not recently.
+nomed: i want to go to see a movie this weekend.
+you: what's stopping you then?
+nomed: i don't want to go alone.
+you: so, will you be at school tomorrow?
+nomed: no, i want to go to the movies instead.
+you: yeah, i went. did you go?
+nomed: no, i didn't feel like it.
+you: that's nice, have you been to the movies lately?
+nomed: no, but that was a random change of subject.
+you: it may have been random, but have you?
+nomed: i haven't lately.
+you: i would love to catch a movie this weekend.
+nomed: so then, why don't you just go?
+you: i don't want to see a movie by myself.
+nomed: okay, so are you going to school tomorrow?
+you: it's no problem. i was really missing you anyway.
+nomed: i missed you too.
+you: why haven't you tried to come see me then?
+nomed: i've been really busy.
+you: doing what?
+nomed: working.
+you: i would've come to see you sooner, but i've been busy too.
+nomed: what have you been doing?
+you: i've been working too.
+nomed: well regardless, i'm very happy that you came to see me.
+you: i am too.
+nomed: i had to. i was missing you a lot.
+you: i was missing you too.
+nomed: so, why haven't you visited me?
+you: i've actually been busy lately.
+nomed: what have you been doing?
+you: i've just been working really hard.
+nomed: i've also been busy.
+you: tell me what you've been doing.
+nomed: basically, i've been working too.
+you: well whatever, i'm glad you came.
+nomed: so am i.
+you: i really missed you a lot.
+nomed: i've been missing you like crazy.
+you: i don't understand why you haven't come to visit me.
+nomed: lately, i've been quite busy.
+you: tell me what you've been up to.
+nomed: i've really been working a lot lately.
+you: i've been pretty busy myself.
+nomed: so what have you been up to?
+you: i've just been working a lot.
+nomed: whatever the reason may be, i'm glad you visited me.
+you: yeah, but i'm still waiting for my invitation.
+nomed: oh really? she gave me mine earlier today.
+you: well, she'll probably just give me my invitation later on today.
+nomed: yeah, so are you planning on going?
+you: i think so. it sounds like it's going to be a lot of fun.
+nomed: it really does, i can't wait.
+you: what time does the party start?
+nomed: it starts at 8 o'clock.
+you: oh, well, how many people has she given invites to so far?
+nomed: i'm not sure, but i don't think she's given out that many.
+you: well, hopefully she'll give me my invite later on today.
+nomed: i've heard about it, but i'm still waiting for my invitation.
+you: really? i got mine from her this morning.
+nomed: i'm guessing that she's going to give me my invite today or tomorrow.
+you: you're probably right, do you intend on going to the party?
+nomed: i want to. i heard it's going to be really fun.
+you: i know, it does sound pretty awesome.
+nomed: well, when does the party start?
+you: it's supposed to start at about eight.
+nomed: how many invitations has she given out?
+you: i really don't know, but i don't think she gave out that many yet.
+nomed: i really want to go, so i hope that she gives me my invite soon.
+you: i was told about it already. i'm just waiting for my invitation.
+nomed: is that right? i already got my invitation from her earlier.
+you: i believe that she will give me the invitation today.
+nomed: are you even going to go?
+you: yeah, it sounds like it's going to be the best party of the year.
+nomed: exactly, it seems like it's going to be loads of fun.
+you: when exactly does the party start?
+nomed: the invitation says it starts at 8:00 p.m.
+you: has she given out a lot of invitations yet?
+nomed: i have no idea, she hasn't given out many though.
+you: nothing really.
+nomed: i'm throwing a party on friday.
+you: i didn't realize that.
+nomed: you didn't?
+you: nobody has told me anything about your party.
+nomed: did you want to go?
+you: when does it start?
+nomed: at 8:00 p.m.
+you: i'll be there.
+nomed: i'd better see you there.
+you: of course.
+nomed: fine. what's going on with you?
+you: i'm having a party this friday.
+nomed: i had no idea.
+you: is that right?
+nomed: i didn't hear anything about it.
+you: can you go?
+nomed: what time?
+you: it starts at 8 o'clock.
+nomed: i'll go.
+you: i hope that i'll see you there.
+nomed: no doubt.
+you: not much.
+nomed: this friday, i'm throwing a party.
+you: oh really? i didn't know that.
+nomed: are you serious?
+you: i haven't heard anything about it.
+nomed: can you make it?
+you: what time does it start?
+nomed: the party starts at 8.
+you: yeah, i think i'll go.
+nomed: am i going to see you there?
+you: nothing really, you?
+nomed: i'm throwing a party next saturday.
+you: is that right?
+nomed: yeah, are you going to come?
+you: i'm sorry, i can't.
+nomed: why not?
+you: i don't really want to.
+nomed: well, why don't you?
+you: i hate going to parties.
+nomed: well, that's okay.
+you: yeah, sorry.
+nomed: nothing, how about you?
+you: next saturday, i'm going to have a party.
+nomed: oh, really?
+you: you are coming?
+nomed: probably not.
+you: why is that?
+nomed: i don't feel like going.
+you: why not?
+nomed: i really can't stand going to parties.
+you: i understand, i guess.
+nomed: sorry about that.
+you: not a lot, what about you?
+nomed: i'm having a party next saturday.
+you: that's nice.
+nomed: are you going to be there?
+you: i don't think so.
+nomed: is there a reason why?
+you: i just really don't want to go.
+nomed: how come?
+you: i don't really like parties.
+nomed: i wish you would go, but that's okay.
+you: nothing much, what's going on?
+nomed: i'm having a party this friday.
+you: oh, really? that's nice.
+nomed: i wanted to see if you wanted to come.
+you: this friday? sorry, i already have plans.
+nomed: doing what?
+you: i'm going to dinner with my family.
+nomed: i really wanted you to come, but i understand.
+you: yeah, maybe next time.
+nomed: i'll hold you to that.
+you: sounds like a plan.
+nomed: not a lot. what about you?
+you: i'm throwing a party on friday.
+nomed: that sounds like fun.
+you: do you think you can come?
+nomed: i'm sorry. i'm already doing something this friday.
+you: what are you going to be doing?
+nomed: my family and i are going to dinner.
+you: i was hoping you would come.
+nomed: i'll definitely try to make it the next time.
+you: i'd better see you there.
+nomed: all right. i'll see you next time.
+you: nothing really. how about you?
+nomed: a lot, like the party i'm having on friday.
+you: well, that's cool.
+nomed: will you be able to make it?
+you: i'm busy this friday. i'm sorry.
+nomed: what do you have to do?
+you: i'm having dinner with my family
+nomed: maybe you can come next time.
+you: i'll make sure and come to your next party.
+nomed: i'll look for you at my next party.
+you: why are you trying to rush me off the phone?
+nomed: i really have to go.
+you: why? i still wanted to talk to you.
+nomed: i have things to do.
+you: like what?
+nomed: don't be nosey.
+you: i'm not. i just want to know.
+nomed: well, it's really none of your business.
+you: that's harsh.
+nomed: i'm sorry, but i have to go.
+you: fine.
+nomed: is there a reason why you're trying to get off the phone so fast?
+you: i've got to go.
+nomed: i wasn't done talking to you.
+you: i have to do some things, and besides, it's not polite to be nosey.
+nomed: i'm not being nosey. i'm just asking.
+you: i really don't think it's any of your business.
+nomed: that's not nice.
+you: i apologize, but i'm getting off the phone now.
+nomed: okay.
+you: what's the rush?
+nomed: i have to get off the phone now.
+you: i'm not ready to get off the phone with you.
+nomed: there are other things i need to take care of.
+you: what is it that you need to do?
+nomed: please don't be nosey.
+you: i'm not being nosey, it's just a question.
+nomed: you don't need to worry about that.
+you: that was mean to say.
+nomed: i am very sorry, but i must go.
+you: it was nice talking to you too.
+nomed: we should really hang out again.
+you: that would be fun.
+nomed: where do you want to go?
+you: i think we should go out to eat.
+nomed: that sounds good.
+you: all right, so i'll see you then.
+nomed: i'll call you later.
+you: okay, i'll talk to you later then.
+nomed: see you later.
+you: bye.
+nomed: i enjoyed talking to you too.
+you: we should hang out some time.
+nomed: i think that would be nice.
+you: is there anything you would like to do next time?
+nomed: do you want to go out to eat?
+you: i'd like that.
+nomed: so i'll see you next time.
+you: i'm going to call you soon.
+nomed: i'll talk to you later.
+you: see you soon.
+nomed: goodbye.
+you: it was really nice talking to you also.
+nomed: i think we should really do something sometime.
+you: that should be loads of fun.
+nomed: what do you want to do next time?
+you: would you like to go to dinner or something?
+nomed: yeah, let's do that.
+you: okay, until next time then.
+nomed: i'll call you so we can set that up.
+you: talk to you then.
+nomed: all right, see you.
+you: i live in pasadena.
+nomed: where is pasadena?
+you: it's in ontario.
+nomed: is it in northern ontario?
+you: no. it's in southern ontario.
+nomed: is pasadena a big city?
+you: it's pretty big.
+nomed: how big is pretty big?
+you: it has about 140,000 people.
+nomed: how big is los angeles?
+you: it has about 3 million people.
+nomed: yes, i do.
+you: what kind of car do you have?
+nomed: i have a honda.
+you: is it new?
+nomed: it was new in 2003.
+you: so, it's pretty old now.
+nomed: yes, it is. but it still looks good.
+you: do you take good care of it?
+nomed: oh, yes. i wash it once a week.
+you: do you change the oil?
+nomed: my mechanic changes the oil twice a year.
+you: no, i don't. do you?
+nomed: i don't have a girlfriend, either.
+you: why not?
+nomed: i don't know. maybe i'm not rich enough.
+you: girls like guys with money.
+nomed: they sure do.
+you: they like guys with new cars.
+nomed: i don't have money or a new car.
+you: me, neither.
+nomed: but girls like guys who are funny.
+you: maybe we should learn some good jokes.
+nomed: i have to walk the dog.
+you: what kind of dog do you have?
+nomed: i have a little poodle.
+you: poodles bark a lot.
+nomed: they sure do.
+you: they bark at everything.
+nomed: they never shut up.
+you: why did you get a poodle?
+nomed: it's my mom's dog.
+you: so she likes poodles.
+nomed: she says they're good watchdogs.
+you: sure. why do you need it?
+nomed: i want to buy lunch.
+you: where's your money?
+nomed: it's not in my wallet.
+you: your wallet is empty?
+nomed: i don't have even one dollar in it.
+you: being broke is no fun.
+nomed: even if it's only for a short while.
+you: it's always good to have friends.
+nomed: friends will lend you money when you're broke.
+you: as long as you pay them back.
+nomed: that's a great idea.
+you: we haven't been in a while.
+nomed: we haven't been in a month.
+you: the last time we went, you almost drowned.
+nomed: no, i didn't.
+you: then why did the lifeguard dive into the water?
+nomed: i think he wanted to cool off.
+you: he swam right up to you.
+nomed: and then he turned right around.
+you: maybe you're right.
+nomed: maybe we should get going.
+you: no. i'm divorced.
+nomed: when did you get divorced?
+you: i got divorced two years ago.
+nomed: why did you get divorced?
+you: my wife left me.
+nomed: why did she leave you?
+you: she said she didn't love me anymore.
+nomed: wow! that's terrible.
+you: yes, it was.
+nomed: why didn't she love you anymore?
+you: she fell in love with my best friend.
+nomed: what's on tv?
+you: nothing.
+nomed: there must be something on tv!
+you: nothing that's interesting.
+nomed: what about that new game show?
+you: which one?
+nomed: deal or no deal
+you: tell me you're joking.
+nomed: i love that show.
+you: i watched it once. that was enough.
+nomed: it's on right now. let's watch it together.
+you: i agree. pasadena is a nice city.
+nomed: it's not too big.
+you: and it's not too small.
+nomed: it has great weather all year long.
+you: it has the rose parade.
+nomed: it has beautiful houses.
+you: it has wonderful restaurants.
+nomed: it has great schools.
+you: it's close to the mountains.
+nomed: the people are friendly.
+you: i'm not ever going to leave.
+nomed: what's the matter with this one?
+you: it's not comfortable.
+nomed: it seems fine to me.
+you: i toss and turn all night.
+nomed: you should stop drinking coffee.
+you: look at these marks on my arms.
+nomed: what are they?
+you: they are bites.
+nomed: did the cat bite you?
+you: no. the bedbugs in that mattress bit me.
+nomed: okay. let's get a new mattress.
+you: buy a new one.
+nomed: i would if i had the money.
+you: why is it so slow?
+nomed: that's a good question.
+you: did you take it to a computer shop?
+nomed: i would if i had the money.
+you: well, i guess you have to live with it.
+nomed: sometimes i want to throw it out the window.
+you: you don't want to do that.
+nomed: why not?
+you: you might hit someone in the head.
+nomed: i'm not sure.
+you: how about a pizza?
+nomed: you had pizza for lunch.
+you: but i love pizza.
+nomed: everybody loves pizza.
+you: so why can't i have pizza for dinner?
+nomed: because you need variety.
+you: what's variety?
+nomed: different thingsnot the same thing all the time.
+you: you mean, like a pepperoni pizza instead of a cheese pizza?
+nomed: no, i mean a salad instead of a pizza.
+you: why do we need to save money?
+nomed: because we need to buy a house.
+you: but a house is so expensive.
+nomed: that's why we need to save money.
+you: how much do we need to save?
+nomed: we need to save enough for a down payment.
+you: how much is that?
+nomed: that's about $30,000.
+you: thirty thousand dollars! that will take forever.
+nomed: not if we save every penny.
+you: okay. here's seven pennies.
+nomed: you can't see the end of it.
+you: it goes on and on forever.
+nomed: and it's deep, too.
+you: i think it's five miles deep.
+nomed: are there fish at the bottom?
+you: there are fish at the top and the bottom.
+nomed: are there more fish or more people?
+you: i think there are more fish.
+nomed: i hope so. i love to eat fish.
+you: why is that?
+nomed: i warned her about her new boyfriend. she didn't listen to me.
+you: what happened?
+nomed: i gave her $1,000 for her birthday. i told her to spend it on herself.
+you: that was very nice of you.
+nomed: i found out that she gave it to her new boyfriend.
+you: why did she do that?
+nomed: he said he would buy her a nice ring.
+you: what's wrong with that?
+nomed: he went to las vegas. he lost it all gambling.
+you: i hope your mom broke up with him.
+nomed: of course they talk to each other.
+you: what do they talk about?
+nomed: they talk about other animals.
+you: what else do they talk about?
+nomed: they talk about food and the weather.
+you: do they talk about us?
+nomed: of course they talk about us.
+you: what do they say about us?
+nomed: they say that we are funny-looking.
+you: ha! we're not funny-looking; animals are funny-looking.
+nomed: we're funny-looking because we wear clothes.
+you: yes, it's very dirty.
+nomed: you can help me.
+you: why me?
+nomed: because you helped make it dirty.
+you: what do you want me to do?
+nomed: i want you to clean the bathroom.
+you: oh, that's easy.
+nomed: clean the sink, the tub, the counter, and the toilet.
+you: that's a lot of work.
+nomed: tell me when you finish.
+you: i don't think so. you'll just give me more work.
+nomed: what do you mean?
+you: i mean you're wasting your life.
+nomed: i'm having fun.
+you: you're sitting there with your mouth open.
+nomed: who cares?
+you: i care. do something.
+nomed: okay. i did something.
+you: what did you do?
+nomed: i turned up the volume.
+you: that's not what i meant by do something.
+nomed: will you do something? leave me alone.
+you: yes, i did.
+nomed: did you tell her about school?
+you: i told her that school is fun.
+nomed: did you put the letter in an envelope?
+you: yes, and i sealed the envelope.
+nomed: did you put a stamp on the envelope?
+you: i couldn't find any stamps.
+nomed: they're in the kitchen drawer.
+you: okay. i just put a stamp on the envelope.
+nomed: give me the envelope, and i'll mail it for you.
+you: when is grandma going to learn about e-mail?
+nomed: i'm sleepy.
+you: why don't you go to bed?
+nomed: i want to watch this tv show.
+you: maybe you should record it.
+nomed: the tape recorder is broken.
+you: then you should watch the rerun.
+nomed: why? i'm watching the original.
+you: but you'll be asleep in about one minute.
+nomed: i'm just yawning because the commercials are on.
+you: okay. i'll tell you how the show ends.
+nomed: zzz.
+you: so?
+nomed: you know what that means.
+you: i forgot.
+nomed: i hope god didn't hear that.
+you: he'll forgive me.
+nomed: i'll do that in a minute.
+you: the cat is meowing. he's hungry.
+nomed: okay. i'll feed him right now.
+you: you shouldn't make him wait.
+nomed: i was doing my homework.
+you: the cat doesn't care about your homework.
+nomed: the cat doesn't care about anything.
+you: that's the way cats are.
+nomed: all they think about is themselves.
+you: maybe we should get rid of him.
+nomed: of course not! he's family.
+you: me too.
+nomed: i just cut myself again.
+you: did you use a new blade?
+nomed: it doesn't matter. old blades cut, new blades cut.
+you: maybe you should use an electric shaver.
+nomed: they make a lot of noise, but they don't give a close shave.
+you: maybe you should stop shaving.
+nomed: and grow a beard?
+you: sure. why not?
+nomed: because food and other stuff sticks in my beard.
+you: hmm. here's an idea. put cream on your face and have the cat lick it off.
+nomed: yes?
+you: are you reading this paper?
+nomed: oh, no. help yourself.
+you: i asked because the paper is sitting next to you.
+nomed: thank you. that's polite of you to ask.
+you: some people would just pick it up.
+nomed: yes, i know. some people are rude.
+you: i always try to be polite.
+nomed: so do i.
+you: the world needs more polite people like us.
+nomed: i agree 100 percent.
+you: let me think about it.
+nomed: why do you have to think about it?
+you: because a puppy costs money.
+nomed: no, it doesn't. puppies are free.
+you: yes, but a puppy needs shots.
+nomed: shots for what?
+you: so it won't get sick. just like you get shots.
+nomed: i hate shots.
+you: and a puppy eats food. food costs money.
+nomed: no problem. i'll give him food off my plate.
+you: oh, no you don't. puppies don't eat vegetables.
+nomed: how many are there?
+you: eight.
+nomed: they're all so cute.
+you: yes, but i can't keep them.
+nomed: what are you going to do with them?
+you: i'm going to give them away. do you want one?
+nomed: yes, i would love one.
+you: which one do you want?
+nomed: that one. the one that's all black.
+you: yes, i like that one, too.
+nomed: i'll call him midnight.
+you: but no one knows for sure.
+nomed: that's for sure.
+you: no one knows what happens after we die.
+nomed: we turn into light and can travel the cosmos.
+you: that's what many people believe.
+nomed: you still miss him.
+you: yes, but i talk to him almost every day.
+nomed: when you go to church?
+you: no, when i call him on his cell phone.
+nomed: what do you mean?
+you: i buried him with his cell phone.
+nomed: what will you do when the battery dies?
+you: that's a bad day.
+nomed: it's bad luck.
+you: you're supposed to stay home all day.
+nomed: that's what i do.
+you: my friend stayed in a hotel on friday the 13th.
+nomed: that was a mistake.
+you: he stayed on the thirteenth floor.
+nomed: what happened?
+you: someone stole his laptop.
+nomed: he was asking for it.
+you: he learned his lesson. he's home today.
+nomed: of course.
+you: prove it.
+nomed: how can i prove it?
+you: take me to dinner.
+nomed: that's it? that's all i have to do?
+you: take me to a nice restaurant, not to mcdonald's.
+nomed: but a nice restaurant costs money.
+you: yes, and you have to make a reservation.
+nomed: that's such a hassle.
+you: i knew you didn't love me.
+nomed: okay, okay! i'll make a reservation right now.
+you: so are mine.
+nomed: why did your parents get divorced?
+you: my father found a new girlfriend.
+nomed: that's too bad.
+you: my mother was hurt and angry.
+nomed: she had good reason. what did she do?
+you: she told him to drop his girlfriend.
+nomed: what did your father do?
+you: he moved out of our house.
+nomed: i guess he really liked his new girlfriend.
+you: yes, but she left him a year later.
+nomed: so does mine.
+you: i think it's an old people's smell.
+nomed: really?
+you: yes. i think when you get old, you begin to smell.
+nomed: like fruit that is too ripe?
+you: yes, just like fruit that is too ripe.
+nomed: but the smell is different.
+you: yes, old people don't smell like fruit.
+nomed: no, they smell like a thrift shop.
+you: yes, a thrift shop has that same smell.
+nomed: yes, an old smell.
+you: i think stamps used to cost a penny.
+nomed: that was a long time ago.
+you: it was before i was born.
+nomed: now a stamp is 42 cents.
+you: but in may it will be 44 cents.
+nomed: have you ever lost a letter in the mail?
+you: no, i haven't.
+nomed: neither have i.
+you: so, they do a good job for the money.
+nomed: yes, they do.
+you: maybe we shouldn't complain.
+nomed: what are you going to do?
+you: first, i have to find the button.
+nomed: where did you lose it?
+you: i have no idea.
+nomed: a button is hard to find. did you look in your pant cuffs?
+you: that's a good idea.
+nomed: i found a button in my pant cuffs one time.
+you: let me look. no, it's not there.
+nomed: many shirts come with an extra button.
+you: you're right. this one does have an extra button.
+nomed: now all you have to do is sew it on.
+you: you drink too much coffee.
+nomed: but i love coffee.
+you: well, it's your life.
+nomed: you eat too much chocolate.
+you: i don't think so.
+nomed: have you looked in the mirror?
+you: do you think i'm getting fat?
+nomed: i didn't say that.
+you: what did you say?
+nomed: i said i have to go to the bathroom.
+you: that's what i thought you said.
+nomed: yes, i did.
+you: what did you wash?
+nomed: i washed the sheets and towels.
+you: what about the pillowcases?
+nomed: yes, i took them off the pillows and washed them.
+you: did you dry everything in the dryer?
+nomed: yes, i dried everything in the dryer.
+you: then what did you do?
+nomed: i folded all the towels.
+you: did you put the sheets on the beds?
+nomed: yes, and i put the pillowcases on the pillows.
+you: i listen day and night.
+nomed: what do you listen to?
+you: mostly talk radio.
+nomed: what's that?
+you: people talk about current events.
+nomed: what do they say?
+you: they say they want change.
+nomed: what kind of change?
+you: they want tax cuts.
+nomed: why do they want tax cuts?
+you: because tax cuts will save them money.
+nomed: look in the fridge.
+you: i'm looking. there's nothing to eat.
+nomed: are you sure?
+you: it's almost empty.
+nomed: i went to the market yesterday.
+you: i don't see anything.
+nomed: i bought lots of oranges and apples.
+you: i don't want fruit. i want something tasty.
+nomed: eat the fruit. it's good for you.
+you: next time you go to the market, let me go with you.
+nomed: no, thank you. all you want to eat are hot dogs and candy bars.
+you: i don't know. look in the fridge.
+nomed: i think i'll make a sandwich.
+you: what kind?
+nomed: a ham sandwich.
+you: the bread is in the cabinet.
+nomed: where's the mustard?
+you: it's in the fridge, i think.
+nomed: oh, yes, here it is. do you want a sandwich?
+you: yes, that sounds nice.
+nomed: how about some potato chips?
+you: yes. and a pickle, if we have any.
+nomed: but, mom, i'm not dirty.
+you: you need a bath every day.
+nomed: why?
+you: because you don't want to smell bad.
+nomed: i don't smell bad.
+you: that's what you think.
+nomed: if i smelled bad, i could smell me.
+you: i can smell you.
+nomed: i can smell you, too.
+you: that's my perfume.
+nomed: when can i wear perfume?
+you: exactly what?
+nomed: all i get is a black screen.
+you: what's the matter?
+nomed: i think i know, because this happened before.
+you: what happened before?
+nomed: my hard drive crashed.
+you: oh, no. that's bad news.
+nomed: it sure is, but i'm going to call hp first, just to make sure.
+you: will you lose all your files?
+nomed: no, i always back up my files.
+you: you're smart.
+nomed: what did they say?
+you: they said i need a new hard drive.
+nomed: that's too bad. how much is a new one?
+you: it's not too much, only about $85.
+nomed: plus installation?
+you: no, my hard drive is easy to remove and replace.
+nomed: really?
+you: yes, it's just a couple of screws.
+nomed: that's nice.
+you: it's a lot better than paying someone $60.
+nomed: if my hard drive crashes, i'll just call you.
+you: it's bluedog123.
+nomed: bluedog123. are you sure that's all?
+you: yes.
+nomed: no. that's incomplete.
+you: what do you mean?
+nomed: what's your mailing address?
+you: 456 cherry drive, pasadena, ca 91170.
+nomed: that's correct.
+you: so what's the problem?
+nomed: bluedog123 is just the street. you have to give me the city, state, and zip code.
+you: oh, i get it. my email address is bluedog123@yahoo.com.
+nomed: you should unplug the phone.
+you: that's a good idea.
+nomed: do you want me to wake you in an hour?
+you: no, thanks. just let me sleep until i wake up.
+nomed: i'll start dinner at 6:00.
+you: okay. i think i'll be awake by then.
+nomed: if not, your nose will wake you up.
+you: you mean i will smell the food cooking?
+nomed: you might even dream about dinner.
+you: i don't think i'm going to dream about anything. i'm really tired.
+nomed: have a nice nap.
+you: yes, dad, it was.
+nomed: the son gave a nice speech about his father.
+you: it was long, too.
+nomed: i think it was about 45 minutes long.
+you: but it went by fast. it was interesting.
+nomed: i liked it.
+you: i'll give you a speech like that, too.
+nomed: do you think anyone will come to my funeral?
+you: of course.
+nomed: i think only the family will be there.
+you: you have lots of friends. they will be there, too!
+nomed: i had to blow my nose.
+you: did you have to blow right next to the phone?
+nomed: did you hear that?
+you: of course i heard that. i thought a plane had crashed into your house.
+nomed: it wasn't that loud.
+you: i will blow my nose sometime for you, and you'll see.
+nomed: okay. i'll take your word for it.
+you: i thought you had an elephant in your house.
+nomed: you're funny.
+you: what did you say? i think i've gone deaf.
+nomed: i'm going into the bathroom to blow my nose. i'll be right back.
+you: really? how many do you have?
+nomed: i don't know, maybe one hundred.
+you: that is a lot of friends. do you have a best friend?
+nomed: of course. i have lots of best friends.
+you: how many best friends do you have?
+nomed: i think about twenty-five.
+you: hmm. i have only one best friend.
+nomed: i feel sorry for you.
+you: i have only a few friends.
+nomed: you must be lonely. i will share my friends with you.
+you: that's very nice of you.
+nomed: why would i do that?
+you: because men like to cheat.
+nomed: some men do, but not me.
+you: i'm watching you.
+nomed: i'm an open book. watch me all you want.
+you: if i catch you, you'll be sorry.
+nomed: you won't catch me, because i love you. i'm not a cheater.
+you: i will poke your eyes out.
+nomed: i don't want any other woman.
+you: i will chop your toes off, one by one.
+nomed: honey, please. you're the only woman for me, forever. i swear it.
+you: me too.
+nomed: why do you hate to go outside?
+you: i meet too many jerks.
+nomed: i agree.
+you: this city is full of jerks.
+nomed: rude people are everywhere.
+you: but what can you do?
+nomed: you can yell at them.
+you: and they will yell back at you.
+nomed: yelling doesn't do any good.
+you: no. the best thing to do is just stay home.
+nomed: are you having problems with it?
+you: i don't understand some things.
+nomed: let me help you.
+you: what does mi mean?
+nomed: mi stands for middle initial.
+you: what does mm/dd/yy mean?
+nomed: that means month/day/year. use numbers.
+you: i don't understand.
+nomed: for example, if your birth date is january 12, 1987, write 01/12/87.
+you: oh. that's simple enough.
+nomed: always print clearly, and fill in the bubbles completely.
+you: what do you want to do?
+nomed: i want to get a puppy for my son.
+you: that will make him so happy.
+nomed: i'll get him one of those little dogs.
+you: one that won't grow up too big.
+nomed: and eat too much.
+you: do you know which one he would like?
+nomed: oh, yes, i took him there yesterday. he showed me one that he really liked.
+you: i bet you had to drag him away.
+nomed: he wanted to take it home yesterday.
+you: i wonder what he'll name it.
+nomed: i don't know. i just woke up.
+you: why don't you look outside?
+nomed: okay. it looks like rain.
+you: why do you say that?
+nomed: the sky is gray.
+you: is it raining right now?
+nomed: no.
+you: how do you know?
+nomed: the street isn't wet.
+you: i have to go shopping today.
+nomed: you'd better take an umbrella.
+you: it's not even noon yet.
+nomed: that means it will get hotter.
+you: i am dying from the heat.
+nomed: turn on the air conditioner.
+you: it doesn't work.
+nomed: what happened?
+you: i don't know.
+nomed: did you call the repairman?
+you: of course.
+nomed: when is he coming?
+you: he's busy. he said next week.
+nomed: why is that?
+you: because i love the snow.
+nomed: yes, the snow is fun.
+you: last year we made a big snowman.
+nomed: how big was it?
+you: it was seven feet tall.
+nomed: how long did it take?
+you: it took us all day.
+nomed: did you give him a nose?
+you: of course. we gave him a big carrot for a nose.
+nomed: let me help you make one this year.
+you: what do you need to do?
+nomed: i need to withdraw some money.
+you: how are you going to do that?
+nomed: i'll just use the atm.
+you: what's that?
+nomed: it's the automatic teller machine.
+you: it gives you money?
+nomed: i just insert my debit card into the machine.
+you: and it gives you money?
+nomed: well, it gives me money, but it's my own money.
+you: oh. what good is that? i thought it gave you free money.
+nomed: oh, no. i forgot.
+you: well, you'd better take it out front.
+nomed: what time does the recycle truck come by?
+you: it usually gets here at noon on tuesday, which is tomorrow.
+nomed: i'll just take it out to the street tomorrow morning.
+you: oh, no, you don't.
+nomed: what do you mean?
+you: every morning you get up late and rush off to work late.
+nomed: do you think i'll forget to do it?
+you: you'll remember to do it, but you won't have time to do it.
+nomed: okay, i'll take it out front right now.
+you: ready for what?
+nomed: ready for the big switch.
+you: what are you talking about?
+nomed: the nation is switching to digital tv.
+you: oh. of course i'm ready.
+nomed: did you buy the converter?
+you: no, i don't need a converter because i bought a digital tv.
+nomed: how much was that?
+you: it was only about $120 for a 13-inch screen.
+nomed: does it pick up any digital channels?
+you: oh, yes. i get six korean channels but nothing in english!
+nomed: they sure are.
+you: did you hear about the pilot?
+nomed: the one that stole a small plane?
+you: yes, he stole a plane in canada and flew into the u.s.
+nomed: did they catch him?
+you: yes. after two u.s. fighter jets followed him for an hour, he landed on a highway.
+nomed: did he crash?
+you: no, he just landed the plane and walked to a restaurant.
+nomed: did the cops find out why he flew into the u.s.?
+you: his life sucked. he was hoping a fighter jet would shoot him down.
+nomed: poor guy.
+you: how do you know?
+nomed: the tv news is reporting a bank robbery.
+you: do they know what the robber looks like?
+nomed: yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.
+you: what race is he?
+nomed: they didn't say.
+you: the tv news doesn't tell us the race anymore.
+nomed: of course not. that would be racist.
+you: but how can we identify someone if we don't know their race?
+nomed: don't ask me.
+you: then they also shouldn't tell us if the robber is male or female, because that is sexist.
+nomed: but i don't have a tissu.
+you: then go find a tissu in the bathroom.
+nomed: i didn't have time to get one from there.
+you: your sleeves are not tissus.
+nomed: but mom, all my friends use their sleeves.
+you: that doesn't make it right.
+nomed: i saw dad wipe his nose on his sleeve yesterday.
+you: i will talk to your father about that.
+nomed: i bet dad did it all the time when he was my age.
+you: your daddy was a good little boy.
+nomed: how do you know? were you his mommy, too?
+you: worried about what?
+nomed: i'm getting married.
+you: you should be happy, not worried.
+nomed: i am happy, but marriage is a lot of responsibility.
+you: yes, you have to take care of your wife.
+nomed: and i have to take care of our children.
+you: are you going to start a family?
+nomed: yes. we want to have a little boy and a little girl.
+you: that sounds wonderful.
+nomed: except we can't afford it!
+you: no wonder you're worried.
+nomed: or artists.
+you: they're in a different world.
+nomed: i saw a painting of a jar that was full of pencils.
+you: the artist said the jar was both full and empty.
+nomed: but it was full of pencils! how could he say it was empty?
+you: artists see things differently.
+nomed: did you ever see anything that picasso painted?
+you: of course! he's world famous.
+nomed: did he ever take art lessons?
+you: i can't believe it. i drew paintings like that in third grade.
+nomed: where are they? maybe they are worth millions.
+you: the point of what?
+nomed: of living.
+you: who knows? you live, and then you die.
+nomed: we must be here for some reason.
+you: maybe we're here to have fun.
+nomed: then why aren't i having fun?
+you: because you're thinking too much.
+nomed: so i should stop thinking?
+you: stop thinking about what the point is.
+nomed: okay. i'll start thinking about having some fun.
+you: just be patient. fun doesn't come along every five minutes.
+nomed: so are cigarettes.
+you: which would you prefer?
+nomed: what do you mean?
+you: when you die and go to heaven, they will offer you beer or cigarettes.
+nomed: i could pick only one or the other?
+you: yes. nothing's perfect, not even in heaven.
+nomed: boy, that's a tough one.
+you: what's so tough about it? of course, i would pick cigarettes.
+nomed: but cigarettes taste much better when you have a cold beer.
+you: well, you can't have everything.
+nomed: i don't think i want to go to your heaven.
+you: you shouldn't carry pens in your pocket.
+nomed: yesterday a pen fell through my pants onto my shoe.
+you: lucky for you it wasn't a sharp knife.
+nomed: who carries a sharp knife in their pocket?
+you: criminals, of course.
+nomed: anyway, i have to fix the hole.
+you: you can sew it up or use an iron-on patch.
+nomed: tell me about this patch.
+you: the patch has glue. the hot iron melts the glue so the patch sticks on.
+nomed: that sounds a lot easier than sewing.
+you: it is. but after about ten washings, the glue washes off.
+nomed: i can't remember jokes.
+you: neither can i.
+nomed: they go in one ear and out the other.
+you: who makes up all these jokes?
+nomed: who knows? but there must be a hundred new ones every day.
+you: yes, just in english alone.
+nomed: i wonder if every language has jokes.
+you: of course! people everywhere like good jokes.
+nomed: what do you think people joke about the most?
+you: i think most jokes are about women.
+nomed: oh, really? i think most jokes are about men!
+you: why do you say that?
+nomed: you speak two languages.
+you: well, my english isn't perfect.
+nomed: no one speaks perfect english.
+you: maybe i will be the first!
+nomed: i've been thinking about learning spanish.
+you: spanish is easy. i'll be happy to teach you.
+nomed: how long will it take me to learn?
+you: i think it will only take you a year or two.
+nomed: how soon can we begin?
+you: ahora! that means right now.
+nomed: yes, it's april 22.
+you: it's more than just a date.
+nomed: is it your birthday or anniversary?
+you: no, it's earth day.
+nomed: what's that?
+you: it's a yearly reminder to take care of our planet.
+nomed: oh, you mean like reuse things and recycle stuff?
+you: yes. we need to think green, save water, and stop using plastic bags.
+nomed: how about if i take shorter showers?
+you: that's a good idea, because showers waste a lot of water.
+nomed: from now on i'll spend only 20 minutes in the shower.
+you: i don't know anyone who likes it.
+nomed: some of it is okay, i guess.
+you: yes, the poems that rhyme and are easy to remember.
+nomed: like one, two, buckle my shoe.
+you: but people still write poems.
+nomed: no one makes any money at it.
+you: shakespeare was a poet.
+nomed: did he get rich from his poetry?
+you: probably not.
+nomed: poems are a little bit like songs.
+you: yes, but songs have music. without music, songs would suck, too.
+nomed: i don't know. i think i'm average.
+you: did you ever take an iq test?
+nomed: no, i never did. all i know is that i got a's and b's in school.
+you: i wish i was really smart.
+nomed: don't be ridiculous.
+you: what do you mean?
+nomed: if you're going to make a wish, wish that you were really rich or famous.
+you: don't you ever wonder what it's like to be super-smart?
+nomed: it must be very lonely.
+you: why's that?
+nomed: because if you're super-smart, no one understands what you're saying.
+you: nothing that would pass as news.
+nomed: what's the weather going to be like this weekend?
+you: i don't know. whenever the weather comes on, i switch channels.
+nomed: what was the lead story on the news?
+you: some actress was in court for driving without a license.
+nomed: what was the second story?
+you: some actor married a woman young enough to be his daughter.
+nomed: what was the third story?
+you: a bull chased a man in a supermarket.
+nomed: wasn't there anything about octo-mom?
+you: of course. she's going to hire a nanny for her eight infants.
+nomed: well, mostly i'll try to avoid it.
+you: i mean, are you going to get buried or cremated?
+nomed: my wife and i will be cremated.
+you: are you going to be buried next to each other?
+nomed: oh, no. our ashes will be shaken into the ocean.
+you: you're not going to be buried?
+nomed: a coffin costs too much and takes up too much space.
+you: yes, but it will be in a cemetery where your children can visit you.
+nomed: children seldom visit their parents in a cemetery.
+you: that's true. a cemetery is for dead people, not living people.
+nomed: we figure our kids can visit us whenever they go to the beach.
+you: yes, of course i wiped my feet.
+nomed: then why is there mud on the carpet?
+you: i don't know. it's not my mud.
+nomed: well, someone brought it into the house.
+you: look at the bottom of my shoesthey're clean.
+nomed: of course they're clean. you left all the mud on the carpet.
+you: okay, i'll get the vacuum cleaner.
+nomed: don't vacuum it now.
+you: don't you want me to clean up the mud?
+nomed: wait till it dries. it will be easier to vacuum.
+you: next time i will be more careful.
+nomed: what are you talking about?
+you: sunday is mother's day.
+nomed: this sunday?
+you: of course. it's all over the news.
+nomed: i thought it was next sunday.
+you: well, you'd better get her something.
+nomed: i'll get her a nice card.
+you: is that it?
+nomed: yes. that's all i ever give her.
+you: she raised you, and all you ever give her is a card?
+nomed: it's okay. she knows that i love her.
+you: what's the matter with it?
+nomed: it's too much like other flags.
+you: yes, a lot of flags have stripes.
+nomed: a flag should be pretty.
+you: what should our flag look like?
+nomed: it should have a pretty woman on it.
+you: that's ridiculous!
+nomed: you don't like pretty women?
+you: of course i do. but not on our flag!
+nomed: every nation should have a pretty woman on their flag.
+you: you can't go to war carrying a flag with a woman on it!
+nomed: what did you do?
+you: i watered all the plants.
+nomed: you have a lot of plants.
+you: then i did my laundry.
+nomed: that takes some time.
+you: i took the dog for a walk.
+nomed: i'll bet he enjoyed his walk.
+you: i vacuumed the entire house.
+nomed: that's a lot of work.
+you: and then i made lunch.
+nomed: i'll bet you were hungry!
+you: so how do you make long distance calls?
+nomed: i use a calling card.
+you: where do you get that?
+nomed: i buy it at the dollar store.
+you: how much is it?
+nomed: it's one dollar for 100 minutes.
+you: that's only a penny a minute!
+nomed: it's a great price. but you have to dial a lot of numbers.
+you: how many?
+nomed: first you dial seven numbers, then ten numbers, then ten more numbers.
+you: yikes. i think i'll keep my long distance service.
+nomed: yes, i do.
+you: what college do you go to?
+nomed: i go to pasadena city college.
+you: do you like it?
+nomed: oh, yes, i really like it.
+you: why do you like it?
+nomed: because it has great teachers.
+you: what else?
+nomed: i like all my classmates, too.
+you: anything else?
+nomed: yes. it's not expensive!
+you: where did you lose it?
+nomed: i don't know.
+you: when did you lose it?
+nomed: i think i lost it today. i used it yesterday.
+you: did you check all your pockets?
+nomed: i checked all my pockets.
+you: did you look in your desk?
+nomed: yes. it isn't there, either.
+you: it's probably around somewhere.
+nomed: oh, well, it only cost me a dollar.
+you: only a dollar? don't even look for it.
+nomed: what is gravity?
+you: it's the force that pulls everything down.
+nomed: i don't understand.
+you: if you pour water into a glass, the water goes down into the glass.
+nomed: of course it does.
+you: without gravity, the water would go up.
+nomed: you're joking.
+you: without gravity, you would go up.
+nomed: what do you mean?
+you: you would float into the sky like a balloon.
+nomed: that would be fun!
+you: turn on the light.
+nomed: the light is on.
+you: open the book.
+nomed: the book is open.
+you: see an eye doctor.
+nomed: that's what i need to do.
+you: he'll give you a prescription for glasses.
+nomed: i'll make an appointment tomorrow.
+you: i'll get the yellow pages for an eye doctor.
+nomed: read the phone number to me.
+you: i'll read it very loud, in case your hearing is getting bad, too.
+nomed: i need pencils.
+you: anything else?
+nomed: i need a notebook.
+you: do you need a pen?
+nomed: no. i already have a pen.
+you: do you need a calculator?
+nomed: no. the teacher doesn't permit calculators.
+you: how about a dictionary?
+nomed: no, we have a big dictionary in the classroom.
+you: well, i guess that's it.
+nomed: yes, that's all i need for now.
+you: so do i.
+nomed: i read it once, and i subscribed.
+you: it gives you all the news.
+nomed: all the news in only 50 pages.
+you: i like the political cartoons.
+nomed: i like the beautiful photos of the houses for sale.
+you: i always read the film reviews.
+nomed: i never miss the food and drink section.
+you: i gave a subscription to my parents.
+nomed: me too. they canceled their other news magazines.
+you: so did mine!
+nomed: shake it a couple of times.
+you: i shook it. there is no more ink.
+nomed: you can borrow mine.
+you: thank you. i'll buy a new one tomorrow.
+nomed: what were you doing?
+you: i was writing a letter.
+nomed: who were you writing to?
+you: it's to my mom.
+nomed: tell her i said hello.
+you: okay. i'll return your pen when i'm done.
+nomed: take your time.
+you: not yet.
+nomed: then why are you watching tv?
+you: this is my favorite show.
+nomed: go do your homework.
+you: but, mom!
+nomed: you can watch tv after you do your homework.
+you: but the show will be over.
+nomed: there will be another show next week.
+you: please?
+nomed: you know the rules.
+you: i hate the rules! i can't wait till i grow up.
+nomed: me too.
+you: no more homework.
+nomed: i hate homework.
+you: are you going to college?
+nomed: i can't afford it.
+you: me neither.
+nomed: so what are you going to do?
+you: i'm joining the army.
+nomed: you're kidding. you might get killed.
+you: i don't think so. after i finish, i'll have enough money to go to college.
+nomed: that's not a bad idea.
+you: english.
+nomed: what are you going to do with an english major?
+you: i'm going to be a teacher.
+nomed: high school or middle school?
+you: high school.
+nomed: i teach high school english.
+you: i didn't know that.
+nomed: i started teaching five years ago.
+you: how do you like it?
+nomed: do you see all this gray hair? it was totally black five years ago.
+you: maybe i'll teach middle school.
+nomed: i'll say.
+you: i drove around for half an hour.
+nomed: did you find a spot?
+you: i found a spot, but someone cut in and took it from me.
+nomed: did you yell at them?
+you: yes, i did.
+nomed: and?
+you: and he yelled back at me.
+nomed: how rude.
+you: but i got lucky a few minutes later.
+nomed: you have to be lucky to find a parking space.
+you: yes, it has lots of rooms and lots of space.
+nomed: and lots of books.
+you: and lots of thieves.
+nomed: what do you mean?
+you: i mean, keep your belongings close to you.
+nomed: the only thing in my backpack is used books.
+you: but thieves don't know that.
+nomed: they might think that i've got an ipod or laptop in there.
+you: now you're thinking.
+nomed: you'd think a library would be safe from thieves.
+you: not even a church is safe from thieves.
+nomed: i can add two and two.
+you: so you're not very good at math?
+nomed: i'm terrible at math.
+you: well, i need some help.
+nomed: with what?
+you: i'm taking a math course in school.
+nomed: well, you should ask your teacher or your classmates for help.
+you: i can't do that.
+nomed: why not?
+you: they might think i'm stupid.
+nomed: they're not going to think that! they'll be glad to help you.
+you: nope.
+nomed: why not?
+you: because.
+nomed: fine.
+you: when i need something.
+nomed: like what?
+you: well, if i have a big test at school.
+nomed: does god answer your prayers?
+you: yes, i've passed all my tests.
+nomed: do you ever pray for money?
+you: not yet. i won't need to do that until i graduate from high school.
+nomed: what husband?
+you: the husband of the driver who ran over two college students at 3 a.m.
+nomed: oh, yeah. the girl died instantly, and the boy is still in the hospital.
+you: the husband said he tried to help the boy.
+nomed: yes, he pushed him off the hood of the car.
+you: no, he said he gently placed the boy on the street.
+nomed: so what? they still drove off.
+you: the husband said a fire department was nearby.
+nomed: so what? did he dial 911?
+you: he said he was thinking about it, but he didn't get around to it.
+nomed: he didn't get around to turning himself in, either.
+you: why not?
+nomed: the seats and windows are dirty.
+you: don't they clean the bus every night?
+nomed: i think they do.
+you: you should bring some wipes with you.
+nomed: that's a good idea.
+you: then you can wipe your seat and window.
+nomed: people will think i'm strange.
+you: who cares? everyone is strange.
+nomed: that's for sure.
+you: don't worry about what people think.
+nomed: why not?
+you: number one, it's too slow.
+nomed: you're right. a car is faster.
+you: number two, it's usually late.
+nomed: you're right. the buses are never on time.
+you: number three, it doesn't run 24 hours.
+nomed: you're right. buses don't run late at night.
+you: number four, it's too crowded.
+nomed: you're right. you have to stand in the aisle.
+you: number five, it's unsafe.
+nomed: you're right. bad guys might rob you.
+you: what was the problem?
+nomed: someone cut the tires.
+you: what tires?
+nomed: the tires on the cars.
+you: where were the cars?
+nomed: they were in the student parking lot.
+you: how many tires were cut?
+nomed: one or two tires were cut on each car.
+you: how many cars?
+nomed: eleven cars.
+you: that's terrible. i hope they catch the person.
+nomed: it sure isn't.
+you: i got a ticket yesterday.
+nomed: what for?
+you: i was crossing the street.
+nomed: were you in a crosswalk?
+you: yes, but the red hand was blinking.
+nomed: so? that's a ticket?
+you: yes, it's a $140 ticket.
+nomed: that's not right!
+you: when i started to cross the street, the white walk sign was blinking.
+nomed: you need to walk faster.
+you: why do you say that?
+nomed: the speed limit is 65.
+you: i know that.
+nomed: but you're doing 75.
+you: so is everyone else.
+nomed: but a cop might stop you.
+you: no, he won't. some cars are doing 85.
+nomed: so the cop will stop those cars?
+you: of course. he stops the fastest cars.
+nomed: my friend got a ticket for doing 75.
+you: your friend was unlucky.
+nomed: how often do i have to do that?
+you: once every two months.
+nomed: that's a lot.
+you: what do you mean?
+nomed: that's six times a year!
+you: yes, and it takes about five minutes each time.
+nomed: i'll try.
+you: check your tires or you'll get a flat.
+nomed: oh. that's not good.
+you: no, it isn't. a flat costs you time and money.
+nomed: and i don't have either.
+you: i'm in a hurry.
+nomed: don't ever be in a hurry.
+you: it's not my fault. you didn't wake me up.
+nomed: that's not my fault. you didn't tell me to wake you up.
+you: well, i meant to.
+nomed: don't ever be in a hurry when you're driving.
+you: why not?
+nomed: because you'll have an accident. most accidents are because people are in a hurry.
+you: how do you know that?
+nomed: i read a lot.
+you: i thought drunks caused most accidents.
+nomed: where are we going?
+you: into the mountains.
+nomed: that sounds nice.
+you: i want to show you my new car.
+nomed: you bought a new car?
+you: yes. i bought a cadillac.
+nomed: a luxury car.
+you: luxury plus speed.
+nomed: what are we waiting for?
+you: let me get the keys.
+nomed: let me get my camera.
+you: why didn't you go before we left?
+nomed: i did, but i have to go again.
+you: well, hold on a little longer.
+nomed: i think i'm going to explode.
+you: just hold on.
+nomed: oh! don't hit any more bumps!
+you: we'll be at mcdonald's in just a few minutes.
+nomed: i hope they are fast minutes.
+you: think about something else. think about a hamburger.
+nomed: i'm thinking, but i still have to go.
+you: it's the next exit. hold on!
+nomed: what do you mean?
+you: the car isn't here.
+nomed: where did you park it?
+you: i parked it right here.
+nomed: are you sure?
+you: yes. i remember this big tree.
+nomed: maybe it's the wrong tree.
+you: no, this is the tree.
+nomed: did someone steal it?
+you: i sure hope not.
+nomed: maybe they towed it away.
+you: i'd rather not.
+nomed: it gets worse every year.
+you: why are you complaining? we're going almost 20 miles an hour.
+nomed: the speed limit is 65!
+you: well, that's between 2:00 and 4:00 a.m.
+nomed: where are all these people going?
+you: they're all asking the same question.
+nomed: when are they going to fix this problem?
+you: they said they need more money.
+nomed: they always need more money.
+you: it'll get worse before it gets better.
+nomed: yes, he went through the red light.
+you: can we call the police?
+nomed: no, the police don't care.
+you: why not?
+nomed: they have to see it happen.
+you: they don't believe us?
+nomed: no. they can only give a ticket if they see it happen.
+you: so, what do we do?
+nomed: we don't do anything.
+you: maybe we should honk the horn next time.
+nomed: the driver will just honk back at us.
+you: why don't you wash it?
+nomed: that's what i'm going to do.
+you: are you going to wash it yourself?
+nomed: of course. it's not a hard job.
+you: i'll help you.
+nomed: okay, i'll get a bucket.
+you: i'll rinse the car first.
+nomed: then we can scrub it with a wet sponge and soap.
+you: after that, we can dry it with a towel.
+nomed: then it will look like new
+you: and you save $10.
+nomed: paper is flying everywhere.
+you: this wind is dangerous for drivers.
+nomed: especially for drivers of big trucks.
+you: the wind blows those trucks over.
+nomed: it blows trees over, too.
+you: a tree fell onto my dad's car.
+nomed: was there much damage?
+you: my dad had to buy a new car.
+nomed: wow! that's terrible.
+you: never park your car under a tree.
+nomed: the wind will get you, or the birds will get you.
+you: we'll stop at the next mcdonald's.
+nomed: how far away is that?
+you: i think we'll be there in half an hour.
+nomed: i hope so. i have to go to the bathroom.
+you: well, i can always pull over.
+nomed: no, thank you, i'll just wait.
+you: we can kill two birds with one stone.
+nomed: what do you mean?
+you: while you're using the bathroom, i'll order some food.
+nomed: don't order for me. i'm not hungry.
+you: i'm very hungry. i'll order for you, and then i'll eat yours.
+nomed: look how many cars are waiting in line.
+you: they need a left-turn arrow.
+nomed: only two cars can make a left turn every three or four minutes.
+you: we'll be here forever.
+nomed: get out of this lane.
+you: but we need to turn left.
+nomed: forget it. go straight.
+you: then what?
+nomed: then we'll just make a u-turn.
+you: and then we can turn right at the light.
+nomed: good idea. it will be so much quicker.
+you: how much money do you have?
+nomed: $1,000.
+you: well, that should get you something.
+nomed: but i need something that's reliable.
+you: you need a car with low mileage.
+nomed: a car that was owned by a little old lady.
+you: where have you looked?
+nomed: i haven't looked anywhere yet.
+you: why not?
+nomed: because i'll never find one for such a low price.
+you: you're right about that. keep saving your money.
+nomed: your driver's license and registration, please.
+you: here you go.
+nomed: do you know why i pulled you over?
+you: i have no idea. all of a sudden i heard your siren.
+nomed: you rolled through that stop sign back there.
+you: but i stopped!
+nomed: no, you didn't. you slowed down, but you didn't come to a full stop.
+you: well, nobody else does, so why should i?
+nomed: that's not the attitude of a good driver.
+you: but i am a good driver. i've never had a ticket in my life.
+nomed: well, you've got one now. here. have a nice day.
+you: what are you talking about?
+nomed: i got a ticket downtown for $140.
+you: were you speeding?
+nomed: no, i was crossing the street.
+you: were you jaywalking?
+nomed: no, i was in the crosswalk.
+you: so why did you get a ticket?
+nomed: the officer said the red hand was blinking.
+you: was it blinking when you entered the crosswalk?
+nomed: no, the white walk sign was blinking.
+you: you should fight that ticket. i'll be your witness.
+nomed: who?
+you: two students from usc.
+nomed: what happened?
+you: a speeding car ran a red light, killing the girl.
+nomed: what happened to the other student?
+you: he landed on the hood of the car.
+nomed: did he get off the hood?
+you: no, the car stopped and the passenger pushed the injured student off the hood.
+nomed: i'll bet the car continued on its way.
+you: of course it did. why stop after you've run over two people?
+nomed: i hope they find them and put them in jail for life.
+you: i got a dent in the parking lot.
+nomed: how did you get it?
+you: i don't know. maybe it was from a shopping cart.
+nomed: those shopping carts are dangerous.
+you: especially the metal ones.
+nomed: i don't park at a store that uses metal shopping carts.
+you: that's a good idea, but there was a good sale at this store.
+nomed: did you save any money on the sale?
+you: yes, i did. i saved about $50.
+nomed: that's great.
+you: yes, except this dent will cost about $150.
+nomed: yes. it is a great movie.
+you: i saw it twelve times.
+nomed: i saw it eight times.
+you: i have the dvd.
+nomed: so do i.
+you: let's go to your home.
+nomed: we can watch my dvd.
+you: and then we can go to my home.
+nomed: and watch your dvd.
+you: i always cry at the end.
+nomed: me too. it's so sad.
+you: i don't know any card games.
+nomed: i'll teach you one.
+you: okay. what will you teach me?
+nomed: it's called poker.
+you: is it easy to learn?
+nomed: yes, it will only take about 30 minutes.
+you: okay. teach me how to play.
+nomed: we each get five cards.
+you: oh, look. i have four tens.
+nomed: that's great, but you're not supposed to tell me.
+you: oh. sorry. okay, i don't have four tens.
+nomed: why is that?
+you: because i watch the other players.
+nomed: what do you mean?
+you: people will tell you if they have a good hand.
+nomed: how do they do that?
+you: for example, a friend of mine licks his lips.
+nomed: when he licks his lips, you know he has a good hand?
+you: i know he has a good hand, so i don't bet.
+nomed: he never wins your money?
+you: nope, and it drives him crazy.
+nomed: he knows you can't read his mind. maybe he thinks you're cheating.
+you: but i'm listening to it.
+nomed: well, listen to it more quietly.
+you: i can't wait till i grow up.
+nomed: what will you do?
+you: i will play the radio as loud as i want.
+nomed: that's okay with me.
+you: i will have a radio in every room of my house.
+nomed: remind me to never visit you.
+you: all the radios will be on extra loud.
+nomed: your neighbors will hate you.
+you: if they don't like it, they can move.
+nomed: your chances are very small.
+you: but you can't win if you don't play.
+nomed: ha! you can't win if you do play.
+you: someone has to win.
+nomed: that's what everyone says.
+you: it might as well be me.
+nomed: that's what everyone says.
+you: you're trying to tell me something.
+nomed: that didn't take long.
+you: you think i should quit playing.
+nomed: save your money for school.
+you: nothing much.
+nomed: what about the baseball game?
+you: it got rained out.
+nomed: rained out?
+you: yes, rained out.
+nomed: how could that be?
+you: well, you can't play baseball in a rainstorm.
+nomed: i thought they were playing under a dome.
+you: the dome doesn't close.
+nomed: why doesn't it close?
+you: who knows? they said they'll fix it before next season.
+nomed: sure. here you go.
+you: hmm, that's not bad.
+nomed: there's nothing in it.
+you: what do you mean?
+nomed: i mean, it's just coffee.
+you: i figured that.
+nomed: it's not too bitter for you?
+you: it's a little bitter, but it's okay.
+nomed: there's no sugar or cream in it.
+you: no, it's a taste you have to get used to.
+nomed: sort of like beer.
+you: what's the weather like?
+nomed: let me step outside and see.
+you: it's a little chilly, right?
+nomed: yes, it is.
+you: i'll put on my cap.
+nomed: wear a jacket, too.
+you: i wonder if i should bring my gloves.
+nomed: maybe you should, just in case it gets colder.
+you: i'll put a glove in each pocket.
+nomed: we'll get warmer as we walk.
+you: yes, but it gets colder as the sun goes down.
+nomed: that driver is crazy.
+you: i can't believe he hasn't crashed.
+nomed: how fast is he going?
+you: they say he's going 80 miles per hour.
+nomed: he's going to kill someone.
+you: look! he just hit that car.
+nomed: oh, my goodness. no one is safe on the streets.
+you: now he's slowing down.
+nomed: maybe he ran out of gas.
+you: look! he just got out of the car and started running.
+nomed: i hope the police catch him.
+you: they shouldn't even call it news.
+nomed: last night they told us about a cat in a sofa.
+you: yesterday they told us about a dog in a pipe.
+nomed: last week they told us about a bear in a back yard.
+you: last month they told us about a mouse in a restaurant.
+nomed: the weatherman tells us the temperature in every town.
+you: the sports guy shows us players fighting.
+nomed: they always tell us what's next.
+you: they always make what's next sound exciting, but it never is.
+nomed: it's more like news for kids.
+you: they should have kid reporters.
+nomed: computers are so cool.
+you: i love to go online.
+nomed: the internet is amazing.
+you: you can travel all over the world.
+nomed: i know. i went to china yesterday.
+you: what did you do?
+nomed: i stood on the great wall and looked all around.
+you: what was it like?
+nomed: it was like the real thing.
+you: it was like being there?
+nomed: yes, i felt like i was actually there.
+you: they are the best musical group ever.
+nomed: i love all their songs.
+you: i don't know which one i like the best.
+nomed: i like the ones i can sing along with.
+you: so do i, like she loves you.
+nomed: she loves you, yeah, yeah, yeah!...
+you:and you know you should be glad!
+nomed: what a great song.
+you: how about let it be?
+nomed: oh, yes! let it be, let it be
+you:there will be an answer, let it be!
+nomed: i'd rather not.
+you: why not?
+nomed: you know i don't like crowds.
+you: let's go to an early movie.
+nomed: okay, that won't be very crowded.
+you: what would you like to see?
+nomed: oh, i don't care. you're the one who wants to go out.
+you: well, i want to see the pursuit of happyness.
+nomed: what have you heard about it?
+you: it's based on a true story about a divorced man and his young son.
+nomed: well, i hope it has a happy ending.
+you: i like to watch people.
+nomed: that's your favorite thing to do?
+you: well, it's one of them.
+nomed: where do you go to watch people?
+you: my girlfriend and i sit outside starbucks.
+nomed: that sounds like a good spot.
+you: we watch people walk by with their dogs.
+nomed: i guess you see lots of different dogs.
+you: we don't even know what kind most of them are.
+nomed: there are lots of different kinds, but they all have one thing in common.
+you: yes, they love to sniff each other when they meet.
+nomed: yes, he was on the tv news today.
+you: every easter sunday he gives away money.
+nomed: is it his money?
+you: no. movie stars give him money to give to homeless people.
+nomed: how much money does he give away?
+you: this year he gave away $15,000.
+nomed: that's a lot of money.
+you: he gave $100 to people in wheelchairs.
+nomed: what about the other homeless people?
+you: they got $1 each.
+nomed: people stood in line just to get one dollar?!
+you: even though they're in black and white.
+nomed: a good story is more important than color.
+you: actors didn't curse back then.
+nomed: and there was no violence.
+you: people today don't like that.
+nomed: no, today people like lots of action.
+you: i like a good story.
+nomed: i like to see actors who are like real people.
+you: like real people with real problems.
+nomed: they still make movies like that.
+you: yes, but they never make much money.
+nomed: yes, everybody gets the public broadcasting system.
+you: it puts me to sleep.
+nomed: tell me about it.
+you: a gardening show follows a knitting show.
+nomed: a cooking show follows a sewing show.
+you: a travel show follows another travel show.
+nomed: i'll say! i've gone around the world a dozen times already!
+you: now they're adding old tv shows to the old movies.
+nomed: i sure would like to see something interesting for a change.
+you: if more people donate money, pbs could offer new shows.
+nomed: who wants to donate? public tv should be free.
+you: is that a tv show?
+nomed: yes. it's on every afternoon.
+you: what's so good about it?
+nomed: they have interesting lawsuits.
+you: such as?
+nomed: yesterday, a woman complained about a cell phone she bought on ebay.
+you: was something wrong with the phone?
+nomed: it works only in canada.
+you: did the seller know that?
+nomed: yes, and he didn't tell the buyer.
+you: i hope judge judy made the seller take the phone back.
+nomed: yes, but she looks like a man.
+you: what difference does it make?
+nomed: female singers are supposed to be pretty.
+you: singers are supposed to sound good.
+nomed: they should look good, too.
+you: there are lots of ugly men singers.
+nomed: men singers don't have to look good.
+you: then neither do women singers.
+nomed: well, i would never buy her cd.
+you: but you would buy her cd if she was pretty?
+nomed: yes. i would buy all of her cds.
+you: yes, that will occur next month.
+nomed: most of them are already broadcasting in digital.
+you: the digital signal is very clear.
+nomed: oh, no, it isn't!
+you: what do you mean?
+nomed: i can't get a single channel.
+you: do you have a digital tv?
+nomed: of course. but i don't have cable.
+you: you don't need to have cable, but you do need a good antenna.
+nomed: but i have rabbit ears.
+you: rabbit ears aren't strong enough. buy a digital antenna.
+nomed: oh, really?
+you: are you interested?
+nomed: maybe. what is she like?
+you: she's got a great personality.
+nomed: uh-oh. that means that she's fat and ugly.
+you: she's cute.
+nomed: okay, so she's not ugly; she's just fat.
+you: she weighs 98 pounds.
+nomed: okay, she's not fat. so what's the problem with her?
+you: who said there is a problem with her?
+nomed: the problem is she has no problemsshe's too good for me!
+you: thank you.
+nomed: would you have dinner with me?
+you: i would like to.
+nomed: can i pick you up friday night?
+you: what time?
+nomed: eight o'clock.
+you: that sounds great.
+nomed: we'll go to a french restaurant.
+you: i've never been to a french restaurant.
+nomed: i think you'll love the food.
+you: i'm not going to eat any snails!
+nomed: thank you. so do you.
+you: i wish my eyes were blue.
+nomed: what's the matter with green eyes?
+you: nothing, except my favorite color is blue.
+nomed: maybe in your next life you'll have blue eyes.
+you: but what if i'm a fish in my next life?
+nomed: i think some fish have blue eyes.
+you: i hope i don't come back as a fish.
+nomed: i hope i come back as a cat.
+you: cats have beautiful eyes.
+nomed: i would love to have blue cat-eyes.
+you: i love you, too.
+nomed: i loved you the first day i saw you.
+you: it was love at first sight?
+nomed: yes, it was love at first sight.
+you: i didn't love you at first.
+nomed: i know. i had to chase you for a while.
+you: yes, you chased me and then you caught me.
+nomed: now you're mine forever.
+you: and you're mine forever.
+nomed: we'll grow old together.
+you: and be happy together.
+nomed: have you told her?
+you: of course not.
+nomed: why not?
+you: she would laugh at me.
+nomed: how do you know?
+you: because they always do.
+nomed: maybe she's different.
+you: they're all the same.
+nomed: just ask her out to dinner.
+you: and then what?
+nomed: and then she'll know that you like her.
+you: i'm not in the mood.
+nomed: what's the matter?
+you: i saw you looking at that woman.
+nomed: what woman?
+you: you know, that woman with the big boobs.
+nomed: i was not looking at her.
+you: you were, too.
+nomed: i'm not interested in her.
+you: then why were you looking at her?
+nomed: i was looking at something else.
+you: oh, really? then spend tonight looking at the sofa.
+nomed: you must be joking.
+you: no, i'm serious.
+nomed: i don't want to date a blind woman.
+you: a blind date doesn't mean that she is blind!
+nomed: what does it mean?
+you: a blind date is a date with someone you don't know.
+nomed: why would i date someone i don't even know?
+you: to try something new and exciting.
+nomed: what if i don't like her?
+you: then you don't date her again.
+nomed: really? who with?
+you: a girl i met at the market.
+nomed: you met a girl at the supermarket?
+you: she was standing behind me in a really slow line at the checkout counter.
+nomed: what did you say to her?
+you: i had two pineapples in my cart, and she asked where i had found them.
+nomed: she asked you about your pineapples?
+you: i told her i had gotten the last two on the shelf, but i offered her one of mine.
+nomed: that was nice of you.
+you: she asked me how she could return the favor, so i asked her out.
+nomed: sometimes a slow line can be a good thing.
+you: yes, in fact, i did.
+nomed: who did you go out with?
+you: a man i met in a coffee shop.
+nomed: where did you go?
+you: we went to a nice restaurant.
+nomed: anywhere else?
+you: then we went to a jazz club.
+nomed: that sounds like a nice date.
+you: yes, it was pleasant.
+nomed: but you won't date him again?
+you: no. he was nice, but there was no chemistry.
+nomed: what happened?
+you: first of all, he was half an hour late.
+nomed: that's not a good start.
+you: then he didn't bother to apologize.
+nomed: that's rude.
+you: then he drove too fast to the restaurant.
+nomed: that's dangerous.
+you: i thought about getting out and taking a taxi home.
+nomed: what happened at the restaurant?
+you: we had a $40 meal, and he left a $1 tip!
+nomed: i guess you can't go back to that restaurant.
+you: why not?
+nomed: he's a dirty old man.
+you: what do you mean?
+nomed: he's old enough to be my father, yet he asked me out.
+you: well, you can't blame a man for asking.
+nomed: he should act his age.
+you: but a lot of old people are still interested in dating.
+nomed: they should find a nice hobby.
+you: just wait until you're 50 years old.
+nomed: dating will be the furthest thing from my mind.
+you: that's what you say now. wait till you're 50.
+nomed: sometimes.
+you: what does she do?
+nomed: just yesterday, i told her i wouldn't trade her for all the money in the world.
+you: that was a nice thing to say.
+nomed: that's what i thought.
+you: what did she say?
+nomed: she laughed! she didn't believe me.
+you: that wasn't very nice of her.
+nomed: she said that nothing is more important to me than money.
+you: what did you say?
+nomed: i told her i wouldn't trade her for any other woman in the world.
+you: i wish i had a good nose. mine is way too big.
+nomed: i don't mean good-looking. i mean good-smelling.
+you: oh. but that can be a curse.
+nomed: yes, because you can be too sensitive to odors.
+you: i'll say. my girlfriend has a nose like a drug dog.
+nomed: did she catch you using drugs?
+you: sort of. she knows whenever i sneak a cigarette.
+nomed: you don't need a good nose for thatcigarettes stink.
+you: but when i sneak just one cigarette in the morning, she can smell it that evening!
+nomed: boy, that is a good nose.
+you: i told her she should apply for a job at customs.
+nomed: that sounds like fun.
+you: where do you want to go?
+nomed: let me think a minute.
+you: i feel like chinese.
+nomed: that sounds delicious.
+you: i know a good chinese restaurant.
+nomed: how far away is it?
+you: it's only 10 minutes from here.
+nomed: do we need reservations?
+you: oh, no. we can walk right in.
+nomed: let's go now. i'm hungry!
+you: this is a popular restaurant, isn't it?
+nomed: yes, but it isn't a fast-food restaurant, is it?
+you: it's the slowest hamburger in town.
+nomed: that's because they cook it while you wait.
+you: yes. that's why it's also the best hamburger in town.
+nomed: a great burger and great service.
+you: yes, the workers are very polite.
+nomed: and they're clean.
+you: i've been coming here for years.
+nomed: me too.
+you: excuse me. they just called my number.
+nomed: thank you.
+you: what kind of soup was that?
+nomed: it was tomato soup.
+you: that tasted so good.
+nomed: i put lemon and butter in it.
+you: the sandwich was good, too.
+nomed: everyone likes bacon and tomato sandwiches.
+you: especially on toast.
+nomed: and the pickles were great, too.
+you: tomorrow we'll have rice and fish for lunch.
+nomed: i can't wait.
+you: what's the matter?
+nomed: this steak has too much fat.
+you: what do you want the waiter to do?
+nomed: bring me a better steak.
+you: i wouldn't do that.
+nomed: why not?
+you: they will drop the new steak on the floor, step on it, and then spit on it.
+nomed: you're crazy.
+you: then the waiter will give you a big smile as he brings you the new steak.
+nomed: where do you get these crazy ideas?
+you: i used to cook in a restaurant!
+nomed: but we just got here.
+you: did you see the waiter's hands?
+nomed: no.
+you: he had dirty fingernails.
+nomed: really?
+you: his nails were black!
+nomed: that's disgusting.
+you: and he poured water into our glasses.
+nomed: yuck! no water for me.
+you: i wonder if the cooks' nails are dirty, too.
+nomed: who cares? let's get out of here.
+you: i like this restaurant because they give you free bread.
+nomed: well, i think we are paying for it.
+you: no. look at the bill when we get it. there's no charge for the bread.
+nomed: it is delicious, especially with butter.
+you: i think we should just leave after we fill up on the bread.
+nomed: they probably wouldn't like that.
+you: i'm eating so much bread that i'm getting full.
+nomed: then stop eating the bread!
+you: okay, just one more piece. pass the butter, please.
+nomed: if i owned a restaurant, i would never serve hot bread before the main course.
+you: that's terrible. i would never go to your restaurant.
+nomed: well, the tables and chairs look okay.
+you: okay, let's sit down.
+nomed: check out the silverware.
+you: it passes inspection.
+nomed: here comes the waiter. see if his hands and nails are clean.
+you: well, the waiter looked clean, so i guess it's okay to eat here.
+nomed: you're forgetting about the bathroom.
+you: i'm going to just hope that the bathroom is clean.
+nomed: you're not going to examine it before we order dinner?
+you: no, i'd rather not find out that it's dirty, because i'm pretty hungry right now.
+nomed: me, too. let's forget about germs and focus on food.
+you: here he comes now.
+nomed: we've been sitting here for almost 10 minutes.
+you: oops, i guess i was wrong. that isn't our waiter.
+nomed: we can give him five more minutes, and then leave.
+you: i'll go up front and talk to the manager.
+nomed: that's a good idea.
+you: maybe they'll give us free drinks for waiting so long.
+nomed: maybe he'll send us our waiter immediately.
+you: every time we eat out, it's an adventure.
+nomed: last time, we got seats next to the kitchen.
+you: we'll never go there again.
+nomed: no, it's too close to the kitchen door.
+you: how about this table?
+nomed: no, it's too close to the front door.
+you: this looks like a nice table.
+nomed: no, it's too close to the salad bar.
+you: okay, i give up.
+nomed: well, there is one good table.
+you: great. which one?
+nomed: that one. a group of eight just sat down at it.
+you: what is it this time?
+nomed: an andy warhol drawing.
+you: he's a famous artist.
+nomed: he drew two butterflies and a flower on a napkin in a restaurant.
+you: did he sign it?
+nomed: yes.
+you: is it beautiful?
+nomed: it's just black ink on a white napkin. and the napkin has food stains!
+you: so it's not worth much?
+nomed: only about $30,000.
+you: without the food stains, it would probably be worth more.
+nomed: of course.
+you: i love baseball.
+nomed: so do i.
+you: i love to eat the peanuts.
+nomed: i love to eat the hot dogs.
+you: i hope we'll see a home run.
+nomed: i hope we'll catch a foul ball.
+you: bring a jacket.
+nomed: yes. it gets a little cool at night.
+you: bring a glove to catch a foul ball.
+nomed: no. i'll just use my cap to catch a foul ball.
+you: it certainly is.
+nomed: you hit a white ball.
+you: and then you chase it.
+nomed: and then you hit it again.
+you: finally, you put the ball into a hole in the ground.
+nomed: you do this 18 times, because there are 18 holes.
+you: what's the point?
+nomed: how can it be fun?
+you: they pay money to play this silly game!
+nomed: i think golfers have a mental problem.
+you: i think they're nuts.
+nomed: yes. that's a good idea.
+you: where do you want to go?
+nomed: we can go to the river.
+you: or we can go to the lake.
+nomed: or we can go to the ocean.
+you: let's go to the lake.
+nomed: yes. the lake is only 10 miles away.
+you: we can be there in 20 minutes.
+nomed: i'll get our fishing rods.
+you: i'll get the bait.
+nomed: we'll have fresh fish for dinner!
+you: i like to hit the ball.
+nomed: i like to run around the bases.
+you: i like to slide into the bases.
+nomed: yeah. it's a lot of fun to slide.
+you: i want to be a baseball player when i grow up.
+nomed: me too. i want to play for the yankees.
+you: not me. i want to play for the dodgers.
+nomed: we have to practice every day.
+you: i don't like practice.
+nomed: me neither. it's boring.
+you: but practice makes perfect.
+nomed: that's a good idea.
+you: i bought some new shoes.
+nomed: are they comfortable?
+you: they're very comfortable.
+nomed: how much were they?
+you: they were on sale for $80.
+nomed: do they help you run faster?
+you: no, but my feet don't hurt anymore.
+nomed: then they're worth every penny.
+you: you might want to buy a pair.
+nomed: i'll wait until i wear this pair out.
+you: you can say that again.
+nomed: but i'm worried about tiger.
+you: why is that?
+nomed: because he likes to scuba dive.
+you: what's wrong with that?
+nomed: it can be dangerous.
+you: you mean he could drown.
+nomed: he shouldn't scuba dive until he retires.
+you: but he dives to relax.
+nomed: he might relax, but it makes me nervous.
+you: if his wife doesn't mind, you shouldn't mind.
+nomed: the one that tiger won?
+you: how did he do it?
+nomed: it was nothing for him.
+you: he sank a 20-foot putt on the last hole to win by one stroke!
+nomed: he sank a 25-footer last year at the same tournament to win by one stroke.
+you: i think he is from outer space.
+nomed: no human could possibly play golf that well.
+you: whenever he needs a shot to win a tournament, he makes that shot.
+nomed: no human can do that.
+you: somebody should check his birth record.
+nomed: i bet it says he was born on mars.
+you: there are so many great players.
+nomed: yes, but who is the greatest?
+you: i'd have to say babe ruth.
+nomed: most people would say that.
+you: he changed the game.
+nomed: yes, he made the home run popular.
+you: everybody loved him, all over the nation.
+nomed: he helped make the yankees the best team ever.
+you: and ruth was a good person, too.
+nomed: he always visited hospitals to cheer up sick kids.
+you: there will never be another babe.
+nomed: no, please tell me.
+you: someone punched out someone.
+nomed: that's not nice.
+you: it's worse than that.
+nomed: how so?
+you: two guys got into an argument.
+nomed: i'll bet they were drinking.
+you: a third guy punched one of the two guys.
+nomed: i'll bet he was drinking, too.
+you: the victim hit his head on the concrete steps and died.
+nomed: that's terrible. can't people just have fun at a baseball game?
+you: is there a game tonight?
+nomed: yes, it starts at 7 p.m.
+you: can we get tickets?
+nomed: yes, but only the cheap tickets.
+you: how much are they?
+nomed: they're only $5 each.
+you: that's a good price.
+nomed: yes, it's cheaper than a hot dog or a beer.
+you: where are the seats?
+nomed: they're behind the outfield.
+you: maybe we can catch a home run ball.
+nomed: what's so hard about hitting a little white ball?
+you: it's hard if you want to do it right.
+nomed: you mean like tiger?
+you: no, like a good amateur golfer.
+nomed: what's so hard about golf?
+you: there are so many things you have to do right.
+nomed: like what?
+you: like keep your left arm straight, keep your head down, and follow through.
+nomed: yikes! who can remember all that?
+you: you need to get a lot of lessons when you're really young.
+nomed: forget it. golf sounds more like work than fun.
+you: the home run hitter on drugs?
+nomed: he said a doctor helped him with a personal problem.
+you: he said he wasn't using drugs.
+nomed: he apologized to the fans.
+you: the league suspended him for 50 games.
+nomed: that will cost him some money.
+you: yes, about $7 million.
+nomed: that will teach him a good lesson.
+you: he probably won't use drugs anymore.
+nomed: but it won't stop other players from using drugs.
+you: no. everyone always figures that they won't get caught.
+nomed: because parents don't teach their kids right from wrong.
+you: is that it?
+nomed: also, there aren't enough police.
+you: but there are a lot of police.
+nomed: there's only one police officer per 100 criminals.
+you: can't we hire more police?
+nomed: no. it costs too much money.
+you: doesn't crime cost more than police?
+nomed: yes, it does.
+you: so it would be cheaper to hire more police?
+nomed: yes, it would.
+you: yes, it is.
+nomed: people are friendly.
+you: yes, they are.
+nomed: the streets and sidewalks are clean.
+you: yes, they are.
+nomed: there's a real nice park nearby.
+you: yes, there is.
+nomed: i feel safe here.
+you: there is no crime here.
+nomed: i wish i could move here.
+you: maybe you can, if someone moves out.
+nomed: what happened?
+you: the man fell asleep.
+nomed: was he smoking?
+you: yes, he was smoking a cigarette.
+nomed: did he die?
+you: yes, he did. his cat died, too.
+nomed: that's too bad. what about his smoke alarm?
+you: the battery was dead.
+nomed: a good battery would have saved his life.
+you: he had cigarettes, but no battery.
+nomed: it happens all the time.
+you: he's been in jail three times already.
+nomed: why did they ever let him out?
+you: it's the law. they can't keep him in jail forever.
+nomed: why not? everyone knows he's a firebug. he loves to start fires.
+you: i don't know. sometimes the law doesn't make sense.
+nomed: but his latest fire killed someone.
+you: this time they have charged him with murder.
+nomed: so maybe he'll go to jail forever?
+you: i sure hope so.
+nomed: someone should set him on fire.
+you: that would teach him a good lesson.
+nomed: why?
+you: because it will protect you in case of an accident.
+nomed: but it's uncomfortable.
+you: it's the law.
+nomed: it's so much trouble.
+you: it's common sense.
+nomed: it's so tight that it's hard for me to breathe.
+you: hold your breath till we get there.
+nomed: okay, my seatbelt is on.
+you: i'm glad you don't complain very much.
+nomed: i'm ready for an accident.
+you: i'm going to change the light bulb. it burnt out.
+nomed: what are you standing on?
+you: a couple of dictionaries and some textbooks.
+nomed: are you crazy?
+you: what's the matter?
+nomed: those books will slip and you'll fall.
+you: it's only a couple of feet.
+nomed: what if you fall while you're holding the light bulb, and it breaks and pieces go into your eyes?
+you: i never thought about that.
+nomed: you'd be blind for the rest of your life!
+you: i'll get the stepladder.
+nomed: yes. i called for a clean-up.
+you: a puddle of water is very dangerous.
+nomed: it isn't easy to see.
+you: but it's real easy to slip on.
+nomed: especially on these slick floors.
+you: someone who slips could hurt their back.
+nomed: they could even crack their head open.
+you: we should stand here till the clean-up person gets here.
+nomed: we can leave if we put an orange cone here.
+you: yes, but i don't know where the orange cones are.
+nomed: it doesn't matter. here he comes now with the mop.
+you: we tell our students to leave the classroom.
+nomed: can they take their belongings?
+you: yes, if they do it quickly.
+nomed: where do the students go?
+you: they go out to the north parking lot.
+nomed: what do the teachers do?
+you: we take our rosters to the parking lot and take roll.
+nomed: why do you do that?
+you: we want to make sure all the students are out of the building.
+nomed: if they are all outside, then what?
+you: then we just wait outside for a fireman to tell us to go back in.
+nomed: why? we're already late.
+you: i have to check the stove.
+nomed: what's the matter?
+you: maybe i left the burner on.
+nomed: no, you didn't. i checked the stove before we left.
+you: are you sure?
+nomed: of course i'm sure.
+you: well, i have to go back upstairs anyway.
+nomed: it's getting later every minute.
+you: i think i left the water running.
+nomed: no, you didn't. let's go! the only thing running is the clock!
+you: what are they paying?
+nomed: up to $200 for each gun, no questions asked.
+you: why are they doing this?
+nomed: they want to get guns off the street.
+you: who would turn in a gun for $200?
+nomed: that isn't a good deal?
+you: a good gun costs $400 or more.
+nomed: well, if you bring your receipt, maybe they'll give you $400.
+you: i'll keep my receipt and my gun.
+nomed: i didn't know you had a gun.
+you: everyone in america should have a gun.
+nomed: i sure am.
+you: you should go to bed.
+nomed: i will as soon as i finish this article.
+you: what are you reading?
+nomed: it's about crime in los angeles.
+you: what does it say?
+nomed: the mayor says the crime rate is going down.
+you: then why does everyone lock their doors?
+nomed: i guess they haven't read this article.
+you: no one believes that the crime rate is going down.
+nomed: maybe the mayor is just talking about his own neighborhood.
+you: why is that?
+nomed: because of all the earthquakes and fires.
+you: but big earthquakes happen only once in a while.
+nomed: once in a while is once too many.
+you: but you're right. there are a lot of fires.
+nomed: a recent fire destroyed 85 homes.
+you: still, it's safer than florida.
+nomed: florida doesn't have earthquakes or fires.
+you: no, florida just has hurricanes every year from june to october.
+nomed: but most of those hurricanes are harmless.
+you: excuse me. hurricane andrew destroyed 30,000 homes!
+nomed: did you like it?
+you: i loved it. i want to live there.
+nomed: what did you like?
+you: the island is so green, and the water is so blue.
+nomed: did you go swimming?
+you: i went to the beach every day.
+nomed: how was the weather?
+you: it was hot and sunny every day.
+nomed: what did you do at night?
+you: at night i went out to eat. the food was delicious.
+nomed: people who live in hawaii are lucky.
+you: what do you like about it?
+nomed: we get a free breakfast.
+you: coffee and a roll?
+nomed: no, a real breakfast.
+you: bacon and eggs?
+nomed: with toast, ham, sausage, fresh fruit, and juice.
+you: wow! that is nice. let's stay for two nights.
+nomed: and the rooms are clean, too.
+you: do they allow pets?
+nomed: no pets, no smoking.
+you: i like that. let's stay three nights.
+nomed: what's the matter? this is a nice room.
+you: maybe the room is nice, but not the bed.
+nomed: what's wrong with the bed?
+you: look at this sheet.
+nomed: yes?
+you: see those stains?
+nomed: i sure do.
+you: i'm not sleeping on that sheet.
+nomed: well, just call the front desk. they'll give us new sheets.
+you: i want sheets without stains on them.
+nomed: from now on, let's bring our own sheets.
+you: it leaves at 12:15.
+nomed: when do you have to be at the airport?
+you: i have to be there two hours early.
+nomed: so we have to be at the airport at 10:15.
+you: that means we have to leave the house at 9:15.
+nomed: well, it's an hour to get there, if there are no traffic problems.
+you: so maybe we better leave at 8:15?
+nomed: yes, it's better to get there too early than too late.
+you: i agree.
+nomed: you never know what might happen on these freeways.
+you: there's at least one huge accident every day.
+nomed: when are you going?
+you: during the christmas holidays.
+nomed: you'd better buy your ticket now.
+you: you must be kidding.
+nomed: no, i'm not. it's march. time is running out. seats are selling out right now.
+you: i thought i would wait until october.
+nomed: i'll bet this is the first time you've ever flown during christmas.
+you: you're right.
+nomed: well, listen to me. you need to buy a ticket now.
+you: but maybe prices will be cheaper in october.
+nomed: cheaper prices won't do you any good if there are no seats.
+you: so do i.
+nomed: a long time ago, flying used to be okay.
+you: now it's like riding a bus.
+nomed: you're jammed in with people all around you.
+you: half of them are coughing, and the other half are sneezing.
+nomed: you don't have any elbow room or knee room.
+you: people are always getting up to use the bathroom.
+nomed: kids are crying or climbing over you.
+you: it's a flying zoo!
+nomed: i wish i could afford first class seats.
+you: doesn't everybody?
+nomed: good for him.
+you: why would he do that?
+nomed: did he set a new record?
+you: yes, i think he did.
+nomed: well, i guess that's why he did it.
+you: what's the point?
+nomed: now he has the world record!
+you: but someone's going to break it, so what good is it?
+nomed: well, he can enjoy it while it lasts.
+you: i don't think he even got paid for it.
+nomed: some people do it just to do it.
+you: that sounds like fun. where do you want to go?
+nomed: i want to cruise to hawaii.
+you: that should be a nice trip. lots of fun, and lots of food.
+nomed: i have no idea how much it will cost.
+you: i think it depends on the season and on your cabin.
+nomed: well, of course i want to go when the weather is nice.
+you: yes, you don't want to travel in winter storms.
+nomed: and i want to get a big cabin with a view.
+you: are you going to travel alone?
+nomed: no, my sister and i will travel together.
+you: well, you should go online and try to find a good deal.
+nomed: because of all the security?
+you: no, because it hurts my ears.
+nomed: what do you mean?
+you: every time we land or take off, my ears hurt so much.
+nomed: that's just the altitude change, i think.
+you: whatever it is, it hurts.
+nomed: can't you take medicine or something for it?
+you: i've tried everything, but nothing works.
+nomed: have you tried earplugs?
+you: they don't work, either.
+nomed: well, be glad you're not a pilot.
+you: are you going to go anywhere?
+nomed: i was thinking of driving to arizona.
+you: to the grand canyon?
+nomed: yes. i've never been there.
+you: i was there when i was a kid.
+nomed: how did you like it?
+you: i loved it. i still remember how amazing it was.
+nomed: i'm sure i'll like it, too.
+you: you should try riding a mule on a trail to the bottom.
+nomed: no way! i don't want to fall to my death.
+you: don't worry. only one person has ever fallen off a mule.
+nomed: the worst in the whole world.
+you: the walls were so thin.
+nomed: all day long we heard tvs or telephones.
+you: all night long we heard people snoring.
+nomed: housekeeping didn't give us fresh towels.
+you: room service brought us a cold dinner.
+nomed: our nonsmoking room stunk of cigarette smoke.
+you: our room was right next to the elevator and the ice machine.
+nomed: they added phony charges to our bill.
+you: how did we end up in that terrible hotel?
+nomed: the travel agent gave us a 50-percent discount!
+you: it's not even 10 o'clock.
+nomed: i'm falling asleep on the phone.
+you: you got up real early.
+nomed: i had to take my friend to the airport.
+you: why didn't you take a nap when you got home?
+nomed: i didn't get home until 30 minutes ago.
+you: why is that?
+nomed: there was a bomb threat at the airport.
+you: only a threat?
+nomed: yes, but i was stuck there all day while they looked for the bomb.
+you: someday the bomb is going to be for real.
+nomed: why did he do that?
+you: he was invited, along with about 90 other veterans.
+nomed: who invited them?
+you: some private organization.
+nomed: why did they invite him?
+you: to thank him and all the other soldiers who served in world war ii.
+nomed: that's very nice.
+you: my dad got to see the beautiful new world war ii monument.
+nomed: that trip must have cost a lot of money.
+you: he said all the money came from private donations.
+nomed: tell me about it, dad.
+you: about 90 of us world war ii veterans got on the plane at 8 a.m.
+nomed: how long was the flight?
+you: it only took about two hours.
+nomed: did you take pictures at the world war ii monument?
+you: oh, yes. we all took lots of pictures.
+nomed: then you flew back home that evening?
+you: yes. when we landed, tv reporters and the army band were there.
+nomed: that must have made you feel really special.
+you: oh, it did. there were about 300 people there to honor us.
+nomed: well, you all deserve it. you helped save our country.
+you: i thought you had a job.
+nomed: i did.
+you: what happened?
+nomed: i got laid off.
+you: that's terrible! when did it happen?
+nomed: i got laid off last week.
+you: just you?
+nomed: no, ten of my coworkers got laid off, too.
+you: what are you going to do?
+nomed: i'm looking in the newspaper for a job.
+you: good luck!
+nomed: what's to check?
+you: are your nails clean?
+nomed: yes, they are.
+you: did you double-check your nose and teeth?
+nomed: they are clean, too.
+you: did you shine your shoes?
+nomed: my shoes are shined.
+you: do your socks match?
+nomed: of course they match.
+you: no, they don't. one is black and one is dark blue.
+nomed: yikes! thank you.
+you: it sure is.
+nomed: i thought school was hard.
+you: me, too. i couldn't wait to graduate.
+nomed: but now work is hard, too.
+you: i agree. work is just as hard as school.
+nomed: sometimes i wish i was back in school.
+you: me, too. school was fun.
+nomed: and it was only 12 years.
+you: it went by pretty fast.
+nomed: but work goes on forever!
+you: we have to work for 30 years!
+nomed: so am i.
+you: i had a long day.
+nomed: so did i.
+you: i didn't even have lunch.
+nomed: neither did i.
+you: i was busy the whole day.
+nomed: so was i.
+you: i had to bring work home with me.
+nomed: i did too.
+you: your day was just like mine.
+nomed: of course it was. we work together!
+you: what do you do?
+nomed: i'm a babysitter.
+you: is that a lot of work?
+nomed: babies cry all the time.
+you: you have to change their diapers.
+nomed: i have to feed them.
+you: are you looking for another job?
+nomed: no, i'm looking for another family.
+you: another family?
+nomed: a family with only one baby.
+you: that's a good idea.
+nomed: what was your last job?
+you: i was a painter.
+nomed: what happened?
+you: i got laid off because there was no work.
+nomed: what else can you do?
+you: i'm a handyman.
+nomed: can you fix a dripping faucet in a kitchen sink?
+you: of course.
+nomed: then i have a job for you in my kitchen.
+you: it will cost you only $20 plus parts.
+nomed: okay. that sounds like a fair price.
+you: i have no idea. i've been here for 20 years.
+nomed: do you have any other skills?
+you: well, i know how to flip hamburgers.
+nomed: no one would hire you to flip hamburgers.
+you: have you heard something that you're not telling me?
+nomed: what do you mean?
+you: are there going to be layoffs at this place?
+nomed: i certainly hope not!
+you: if you got laid off, you'd be flipping hamburgers, too.
+nomed: oh great, we could both work at burger king.
+you: maybe we'd get laid off there, too.
+nomed: yes, and they ask me what jobs are the best.
+you: i tell my students to become a teacher.
+nomed: teaching is a great job.
+you: it's the best job i've ever had.
+nomed: what makes it so good?
+you: for me, it's the students.
+nomed: what do you mean?
+you: i mean i have wonderful students.
+nomed: that must be nice.
+you: teaching is the best part of my whole day.
+nomed: you're a lucky man to have a job you love.
+you: how long did it take?
+nomed: four hours, without a break.
+you: it's always nice to finish a job.
+nomed: well, it's good and bad.
+you: what's bad about it?
+nomed: when you finish, all you do is start another job!
+you: yes, that's right. it does get boring.
+nomed: especially if it's the same work, over and over.
+you: but that's what most people do.
+nomed: yes, i guess most of us are stuck in a routine.
+you: i wonder if there is any job that you don't repeat over and over.
+nomed: what makes him so bad?
+you: he's rude and he yells a lot.
+nomed: that's hard to take.
+you: i've never heard him say please or thank you.
+nomed: he sounds like a real jerk.
+you: no one at work likes him.
+nomed: can't you report him to his supervisor?
+you: of course not. if i do that, i'll lose my job.
+nomed: yes, they don't like troublemakers or complainers.
+you: i can't quit, because i'm making a good salary.
+nomed: you shouldn't choose money over happiness.
+you: about what?
+nomed: about finding a job for me.
+you: you don't need a job. i make enough money for both of us.
+nomed: that doesn't matter. i don't want to sit around.
+you: okay, what kind of job do you want?
+nomed: i'm not sure.
+you: well, you should do something that you enjoy.
+nomed: i enjoy selling. i was born to sell.
+you: okay, what do you want to sell?
+nomed: cigarette lighters. i'll make a fortune.
+you: but you hate cigarettes and you hate smoking!
+nomed: yes, i saw it on the tv news.
+you: they need 300 new workers.
+nomed: and 4,000 people showed up.
+you: so many people are out of work.
+nomed: i still have my job, thank goodness.
+you: so do i, but i'm worried.
+nomed: me too. there are no guarantees.
+you: if you lose your job, you can move in with me.
+nomed: oh, thank you. that's very nice of you.
+you: you would do the same for me.
+nomed: of course. what are friends for?
+you: what did you do?
+nomed: i bought some stock.
+you: everybody buys stock.
+nomed: i bought it on a hunch.
+you: you didn't read about the company first?
+nomed: i didn't have to. it's been in business for 60 years.
+you: so what's the problem?
+nomed: i used all my savings on this one company.
+you: you put all your eggs into one basket.
+nomed: if the company goes out of business, i'll have nothing.
+you: oh, you'll have somethingyou'll have a lesson you'll never forget!
+nomed: what happened to your plans?
+you: i got a d in college chemistry.
+nomed: well, a d is better than an f.
+you: a tutor helped me get the d!
+nomed: so, you didn't become a doctor.
+you: and now i'm glad that i didn't.
+nomed: why's that?
+you: a hospital is the most dangerous place in the world.
+nomed: oh, yes, because of all the killer germs.
+you: if you're a smart doctor, you stay away from hospitals.
+nomed: yes, the smart doctors are those tv news doctorsno hospitals, no patients.
+you: why?
+nomed: because you get to meet a lot of people.
+you: you sure do.
+nomed: and you get a lot of exercise every day.
+you: that's the truth.
+nomed: and you get to play with a lot of dogs.
+you: well, you're supposed to be working.
+nomed: yes, but i will always pet the friendly dogs.
+you: what about the unfriendly dogs?
+nomed: i think if you are friendly to dogs, they are friendly to you.
+you: dogs are like peoplenot all of them are friendly.
+nomed: to the state or the city?
+you: to the city, of course.
+nomed: why do you want to move there?
+you: because i want to make a lot of money.
+nomed: there are a lot of poor people in new york.
+you: there sure areat least a million.
+nomed: so how do you plan to become rich?
+you: i will knock on the doors of all the corporations.
+nomed: that won't make you rich. nobody will talk to you.
+you: i will keep knocking on doors.
+nomed: all you will get is sore knuckles.
+you: me too.
+nomed: i usually eat a simple salad.
+you: what do you put in it?
+nomed: just lettuce, tomato, and celery.
+you: that's it?
+nomed: i add some pepper and salt.
+you: i always put cheese in my salads.
+nomed: yes, cheese is nice.
+you: what kind of dressing do you use?
+nomed: i pour lots of french dressing on top.
+you: me too. french dressing is so delicious! who cares about calories?
+nomed: me too.
+you: where does cheese come from?
+nomed: it comes from cows.
+you: so we get cheese from cows, and we get milk, too?
+nomed: yes, we do.
+you: what else do we get from cows?
+nomed: we get hamburgers and steak.
+you: oh, that's so delicious.
+nomed: we also get leather.
+you: we get a lot of things from cows, don't we?
+nomed: yes. a cow is man's best friend.
+you: how did you like it?
+nomed: i loved it!
+you: did you get free food?
+nomed: i ate free cheese and meat every day.
+you: that sounds like a great job.
+nomed: whatever a customer ordered, i sliced off a little more for me.
+you: did you get fat?
+nomed: no, but i did put on a few pounds.
+you: that sounds like a dream job.
+nomed: it was, until one day my manager caught me.
+you: no more free cheese for you, huh?
+nomed: what are you eating now?
+you: i switched from pasta to potatoes.
+nomed: why did you do that?
+you: pasta is processed food. potatoes are natural food.
+nomed: natural food has more vitamins.
+you: and it's just as easy to prepare.
+nomed: how do you prepare the potatoes?
+you: i wash them, and then steam them for 15 minutes.
+nomed: that's pretty simple.
+you: then i add butter, salt, and pepper.
+nomed: can i have all those cans of tomato sauce you bought for your pasta?
+you: why was that?
+nomed: i sprinkled salt and pepper on the food before i tasted it.
+you: what's the matter with that?
+nomed: her mom is a great cook.
+you: so, a little salt and pepper never hurt anything.
+nomed: it hurt her feelings.
+you: oh.
+nomed: i apologized to her, but i could tell she was still upset.
+you: maybe you shouldn't eat there again.
+nomed: i'm sure everything will be okay in a day or two.
+you: it's your girlfriend's fault. she should have warned you.
+nomed: you're kidding.
+you: no, i'm serious.
+nomed: doesn't that get old?
+you: no, because i'm eating food that i like.
+nomed: but the same thing day after day gets old.
+you: well, i guess if it ever does get old, i'll change to something different.
+nomed: do you eat fruits and vegetables every day?
+you: no, i hate vegetables.
+nomed: but you eat fruits.
+you: i eat two apples, one banana, and one orange every day.
+nomed: well, there's nothing wrong with that.
+you: what's wrong?
+nomed: it's not orange!
+you: your orange isn't orange?
+nomed: no, it's dark pink!
+you: are you sure? i never heard of such a thing.
+nomed: i just peeled it, and i'm looking at it right now.
+you: let me see. yes, you're right. your orange is pink.
+nomed: who ever heard of such a thing?
+you: oh, look. here's the little sticker that was on it. it's called a pink navel.
+nomed: what is this world coming to?
+you: who knows? maybe soon we'll have pink bananas.
+nomed: me, too. i love them roasted and salted.
+you: i love boiled peanuts.
+nomed: boiled? i never heard of that.
+you: just boil raw peanuts in salt water until the shells are soft.
+nomed: i'll have to try them sometime.
+you: they're best when they're hot.
+nomed: my brother is allergic to peanuts.
+you: that's not good.
+nomed: no, it isn't. he almost died when he was little.
+you: i guess he has to be very careful about what he eats.
+nomed: he has a very strict diet.
+you: how much have you gained?
+nomed: three pounds just this month.
+you: do you know why?
+nomed: i think it's the ice cream.
+you: you started eating ice cream?
+nomed: it was on sale.
+you: how much did you buy?
+nomed: i filled up my freezer with ice cream.
+you: well, it won't last forever.
+nomed: no, i figure i'll finish it all by next week.
+you: then you can start losing weight, if there isn't another sale.
+nomed: of course you are. you ate everything on the table.
+you: i don't like to eat leftovers.
+nomed: i'm glad to hear there's something you don't like to eat.
+you: i like my food hot and fresh.
+nomed: you like to see it disappear.
+you: i don't like it reheated.
+nomed: well, you'll have hot fresh food tomorrow night.
+you: i'm so full i'm going to burst.
+nomed: you should loosen your belt.
+you: i already loosened my belt and unbuttoned my pants.
+nomed: well, don't stand up, please.
+you: i didn't do anything.
+nomed: oh yes, you did.
+you: what are you talking about?
+nomed: you know what i'm talking about.
+you: i don't have any idea.
+nomed: you know what you did.
+you: maybe i know, but how could you know?
+nomed: because i was watching you.
+you: okay, i'm sorry i did it.
+nomed: don't drink milk out of the carton. use a glass!
+you: i promise i'll never drink out of the carton again.
+nomed: so do i.
+you: how much is it?
+nomed: i don't know. the tag is missing.
+you: ask the clerk.
+nomed: i will.
+you: oh, look. here's another shirt just like it.
+nomed: does it have a price tag?
+you: yes, it does. it's only $20.
+nomed: that's a great price.
+you: i think i'll buy both of them.
+nomed: you'd better try them on first.
+you: thank you.
+nomed: i hope they fit.
+you: i hope you kept the receipt.
+nomed: you think they won't fit?
+you: i think i've put on some weight.
+nomed: you think?
+you: maybe a pound or two.
+nomed: maybe four or five pounds?
+you: my waist is bigger than it was.
+nomed: no problem. these pants have an elastic waistband.
+you: you are so smart!
+nomed: let me look at our list.
+you: i know that we need milk.
+nomed: nonfat.
+you: of course. what else?
+nomed: we need cheese, bread, and ham.
+you: what kind of cheese?
+nomed: swiss.
+you: of course, the cheese with holes in it.
+nomed: i never used to buy swiss cheese.
+you: why not?
+nomed: i didn't want to pay for the holes.
+you: i thought you just bought a pair.
+nomed: i did.
+you: what's wrong with them so soon?
+nomed: the pants are fine, but the pocket has a huge hole in it.
+you: you shouldn't carry your keys and pens in your pocket.
+nomed: but that's what pockets are for.
+you: you should carry them in a purse.
+nomed: i'm a man, and men don't carry purses!
+you: well, you should buy pants with stronger pockets.
+nomed: i would if i could find someone who makes strong pockets.
+you: try a google search online.
+nomed: you use them to wipe the handle of the shopping cart.
+you: that's a great idea.
+nomed: yes, all the markets just started offering wipes to shoppers.
+you: i'm going to take five wipes.
+nomed: what do you need five of them for?
+you: one to wipe the handle, and the others to wipe the produce.
+nomed: what's the matter with the produce?
+you: do you think the bananas fell from the sky?
+nomed: what do you mean?
+you: i mean, someone used their dirty hands to pick the bananas, the apples, and the oranges.
+nomed: well, you better save a wipe for the dirty dollar bills you're going to pay with.
+you: yes, i did.
+nomed: what did you buy?
+you: well, i got a lot of good deals, as usual.
+nomed: like what?
+you: well, a dozen large eggs were only 99 cents.
+nomed: that's a good deal.
+you: and a one-pound tub of soft butter was the same price.
+nomed: another good deal.
+you: but the best deal was five pounds of potatoes for 99 cents.
+nomed: i don't know how that store makes money.
+you: neither do i, but they're doing something right.
+nomed: what's the matter with yours?
+you: it's six years old.
+nomed: that's pretty old.
+you: it still works, but i'm going to give it to a charity.
+nomed: are you going to buy a desktop or laptop?
+you: oh, a laptop, of course.
+nomed: a pc or a mac?
+you: i haven't decided yet.
+nomed: more and more people are using macs.
+you: but 90 percent of the world uses pcs.
+nomed: and that's not going to change anytime soon.
+you: what happened?
+nomed: i had a car problem, so i went online.
+you: did you find a solution?
+nomed: yes, i did. a site i went to said they would send me the solution.
+you: so, what's the problem?
+nomed: i sent them $20 using my credit card, but they never sent me the solution.
+you: what are you going to do?
+nomed: i sent them an email asking for my money back.
+you: have you heard from them?
+nomed: not yet. it's been a week.
+you: well, i guess that's a $20 lesson for you.
+nomed: which one?
+you: any one. i need to sharpen this pencil.
+nomed: i think there's one on the dining room table.
+you: i already looked there.
+nomed: did you look in the desk drawer?
+you: yes, i looked there, too.
+nomed: don't we have about five sharpeners?
+you: yes, but they seem to have legs.
+nomed: tomorrow i'm going to buy an electric sharpener.
+you: get one with the rubber suction cups on the bottom.
+nomed: yes. that way it will stay where i put it.
+you: how are you doing that?
+nomed: i started shopping at the dollar store.
+you: that saves a lot of money.
+nomed: i bought three pounds of potatoes for a dollar.
+you: that's a good deal.
+nomed: yes, even though some of the potatoes had eyes.
+you: just put them in the fridge.
+nomed: also, i bought a can of cheap coffee and a bag of good coffee.
+you: why did you do that?
+nomed: i mixed them together.
+you: if the coffee still tastes okay, that's a good idea.
+nomed: can we afford it?
+you: they want 20 percent down.
+nomed: that's a lot of money.
+you: but the house is so nice.
+nomed: it's in a great neighborhood.
+you: it's close to the beach.
+nomed: it's close to the freeways.
+you: it's got a big yard.
+nomed: the kids love the house, too.
+you: if we don't buy it, someone else will.
+nomed: you're right. let's buy it now. we can worry later.
+you: are you sure?
+nomed: we will be house rich, but cash poor.
+you: what do you mean?
+nomed: our monthly payments will be too high.
+you: we won't have any money for other things?
+nomed: no, we won't have money for gas or food.
+you: we'll be eating peanut butter sandwiches?
+nomed: without the peanut butter!
+you: that's no good!
+nomed: we have to find a cheaper house.
+you: of course. we can't live without gas or peanut butter.
+nomed: i don't like it.
+you: what's the matter with it?
+nomed: it's on the corner.
+you: so?
+nomed: that means it gets twice as much traffic.
+you: you're right.
+nomed: when you're inside, you will always hear cars stopping and stopping at the intersection.
+you: or you'll hear the collision if someone doesn't stop.
+nomed: or you'll see the collision if they crash into the house.
+you: let's find a house that's at the end of a dead end.
+nomed: that's perfect. the less traffic, the better.
+you: me, too.
+nomed: we have a 2 o'clock appointment to see the one on main street.
+you: we'd better get ready to go.
+nomed: it's an upstairs unit.
+you: that's good, because i don't want to live under people with loud feet.
+nomed: and it's a corner unit.
+you: that's great. we won't have neighbors on both sides of us.
+nomed: no pets are allowed.
+you: perfect. we don't have to listen to barking dogs.
+nomed: and there are only six units in the whole building.
+you: where's the checkbook? i'm ready to rent it without even seeing it.
+nomed: yes. he said he'd come over tomorrow.
+you: did he say what time?
+nomed: yes. he said he'd be here at 9 o'clock.
+you: did he understand what the problem is?
+nomed: yes. i told him our doorbell doesn't work.
+you: it shouldn't take him long to fix it.
+nomed: i don't even know why we need to fix it.
+you: in case we have visitors.
+nomed: but they can just knock on the door.
+you: actually, i want him to look at our carpet, too.
+nomed: yes, it would be nice if he'd give us a new carpet.
+you: yes, it's beautiful.
+nomed: it's perfect for us and the kids.
+you: three bedrooms, three bathrooms, and a big back yard.
+nomed: and we can afford it!
+you: so are we going to buy it?
+nomed: i'm afraid not.
+you: it's too far from your job, isn't it?
+nomed: i can't spend four hours on the road every day.
+you: by the time you get home, you'll be too tired to even eat.
+nomed: i won't be able to play with the kids.
+you: no, we have to find something closer to your job.
+nomed: it sure is.
+you: in fact, it's chilly in the apartment, too.
+nomed: let's turn on the heat.
+you: i'll check to make sure that all the windows are shut.
+nomed: it should be warmer in a few minutes.
+you: it's so nice to have a heated apartment.
+nomed: how did they survive in the old days?
+you: they had fireplaces.
+nomed: someone had to chop the wood.
+you: and carry it into the house.
+nomed: all we have to do is flip a switch.
+you: the streets are clean and quiet.
+nomed: the neighbors don't party on the weekends.
+you: people take care of their lawns.
+nomed: no rusty old cars are sitting in the front yards.
+you: we never have to call the police about anything.
+nomed: our kids are completely safe.
+you: so why are we selling our house?
+nomed: they're building a 3-story apartment building on the corner.
+you: so we've got to sell before property values go down?
+nomed: yes. i still can't believe our city council allowed this building.
+you: they're probably getting something under the table.
+nomed: yes, it was.
+you: they said about 30 houses burned to the ground.
+nomed: and they were expensive houses.
+you: i feel so sorry for those people.
+nomed: why feel sorry for rich people?
+you: i feel sorry for anyone who loses their home.
+nomed: so do i, but not if they're rich.
+you: what does that have to do with it?
+nomed: rich people think they're better than us.
+you: how many rich people do you know?
+nomed: none.
+you: of course they are. they're starving to death.
+nomed: they should stay in the woods where they belong.
+you: there's no food in the woods.
+nomed: can't they eat grass?
+you: do you think a bear is a cow?
+nomed: well, i've seen them eating berries.
+you: berries aren't in season all year round.
+nomed: it's too dangerous for kids and pets.
+you: people need to cover their trash cans.
+nomed: the police need to shoot all the bears.
+you: you don't solve a problem by shooting it.
+nomed: i voted for obama.
+you: me too.
+nomed: he will be a great president.
+you: everyone likes him.
+nomed: he's a good speaker.
+you: and he's really smart.
+nomed: he will solve our problems.
+you: he will end the war.
+nomed: the next four years will be good years.
+you: i'll vote for him next time, too.
+nomed: i think everyone will.
+you: who are you voting for?
+nomed: i'm not voting for the mayor.
+you: why not?
+nomed: he made promises that he didn't keep.
+you: like what?
+nomed: he promised to hire 1,000 more police officers.
+you: how many did he hire?
+nomed: one hundred!
+you: maybe he had a good reason.
+nomed: maybe he's just a liar.
+you: maybe i'll vote for someone else, too.
+nomed: only 15 percent of the voters turned out.
+you: that is a joke.
+nomed: voting is so important, but people don't bother.
+you: many people think their vote doesn't matter.
+nomed: the mayor won by only 2,000 votes.
+you: we're stuck with him for four more years.
+nomed: voting is so easy. you can even mail your ballot in.
+you: all you have to do is vote and put a stamp on it.
+nomed: how easy is that?
+you: i guess people just don't care.
+nomed: they'll care when they see their taxes go up.
+you: but we have the same old problems.
+nomed: well, he's made a few changes.
+you: like what?
+nomed: i think he closed the bowling alley in the white house.
+you: oh, yeah. he's changing it to a basketball court.
+nomed: who's paying for that?
+you: i think we are!
+nomed: well, that's okay, as long as it helps him relax and think more clearly.
+you: yes, we need a relaxed president who thinks clearly.
+nomed: do any other world leaders have a basketball court?
+you: they will. you know america always leads the way.
+nomed: well, more than 50 million people voted for mccain.
+you: that's 50 million people who don't love obama.
+nomed: obama's got four years to make everyone happy.
+you: he's never going to make everyone happy.
+nomed: can you imagine being president?
+you: everyone wants you to solve their problems.
+nomed: i have enough stress from trying to solve my own problems.
+you: you and everybody else.
+nomed: i would never want to be president.
+you: but think about all the power you'd have.
+nomed: i prefer my quiet little life to all the power in the world.
+you: what article?
+nomed: it says the mayor spends only 11 percent of his time on city duties.
+you: only 11 percent?
+nomed: about 50 percent of the time he's traveling.
+you: where does he travel to?
+nomed: oh, all over the world.
+you: but he's supposed to be making our city a better place.
+nomed: he's visiting other cities to get ideas.
+you: can't he just go online?
+nomed: the rest of the time he's raising money for his reelection.
+you: well, he'll never get reelected once this news gets out.
+nomed: i voted for ralph nader.
+you: who in the world is ralph nader?
+nomed: he's the best man for president.
+you: why's that?
+nomed: he hates corporations.
+you: well, most corporations do think only about money.
+nomed: he hates democrats and republicans.
+you: well, they do put their party before their country.
+nomed: he's the only candidate that i trust.
+you: but he didn't have a chance. nobody voted for him!
+nomed: sooner or later, voters will wake up.
+you: why's that?
+nomed: what good does it do?
+you: you get to put someone in power that you like.
+nomed: only if my candidate wins.
+you: well, he can't win unless you and others vote for him.
+nomed: but even if my candidate wins, he'll break his promises.
+you: that's true. they promise anything just so they get elected.
+nomed: and when elected, they go their own way.
+you: they forget who put them in power.
+nomed: they forget where they came from.
+you: maybe you should run for office.
+nomed: what do you mean?
+you: there were more votes than voters!
+nomed: but that's impossible.
+you: officials said that it's possible.
+nomed: did they explain how it's possible?
+you: no. they said there are some things you can't explain.
+nomed: so are they going to hold another election?
+you: no. that will cost too much money.
+nomed: so it's better to save money than to have an honest election?
+you: well, the democratic party says it was an honest election.
+nomed: of course they say thattheir man won!
+you: yes. he's telling jokes about his eight years as president.
+nomed: yes, those eight years were a lot of fun for everyone.
+you: only 4,000 american soldiers were killed overseas.
+nomed: not to mention 40,000 wounded soldiers.
+you: but bush visited some of them in the hospital once.
+nomed: that's nice that he found the time to make a visit.
+you: he spoke to them and made them feel better.
+nomed: did he speak to every family that lost a soldier?
+you: no, he didn't have time to do that.
+nomed: well, he's got plenty of time now!
+you: no, he's too busy writing a book about how hard it was to be president.
+nomed: yes, with the voter instructions.
+you: how are you going to vote?
+nomed: same as ever, by mail. all it costs me is a 42-cent stamp.
+you: i meant, are you going to vote for or against the new taxes?
+nomed: against all of them, of course.
+you: but we need new taxes to pay for highways, schools, and prisons.
+nomed: we've already voted for new taxes to pay for all that stuff!
+you: that's true. where did that money go?
+nomed: our legislators spent it on first-class travel all over the world.
+you: they are having a good time with our money.
+nomed: so when are we going to stop giving them more?
+you: do you mean on measures 1, 2, and 3?
+nomed: yes. the ones that will improve our schools, roads, and hospitals.
+you: you mean the measures that will raise our taxes.
+nomed: but the tv ads say that our taxes will not increase.
+you: do you believe the tv ads?
+nomed: i like the one where the fireman tells us why we should vote yes.
+you: don't believe him! whatever the tv ads tell you, the opposite is true.
+nomed: but the title of measure 1 is better schools at no cost.
+you: the title should be better schools at huge cost.
+nomed: i can't believe that they would lie to us.
+you: of course they liethat's what politicians do!
+nomed: is it something you ate?
+you: maybe. i'm not sure.
+nomed: what did you have for breakfast?
+you: the usual, cereal with milk and a banana.
+nomed: maybe the milk was bad.
+you: it didn't smell bad.
+nomed: maybe the banana was bad.
+you: no, the banana was delicious.
+nomed: maybe you just need to go to the bathroom.
+you: no, that's not the problem.
+nomed: maybe it will go away in a little while.
+you: i don't know.
+nomed: it looks like blood.
+you: i think my nose was bleeding.
+nomed: you should wet your shirt immediately.
+you: why?
+nomed: because that gets the blood out of the shirt.
+you: what's a little blood?
+nomed: your white shirt is ruined.
+you: so, i'll just buy another one.
+nomed: you can wear this one around the house.
+you: next time i'll soak it immediately.
+nomed: why do they hurt?
+you: i type too much.
+nomed: you should take a break.
+you: i need to type to make money.
+nomed: but typing is causing you pain.
+you: maybe i should see a doctor.
+nomed: doctors are too expensive.
+you: he might tell me to rest for a while.
+nomed: he might want to cut you open.
+you: he might say i'm okay.
+nomed: he might say you have bone cancer.
+you: he thinks i have too much stress.
+nomed: stress causes your stomachaches?
+you: stress causes different problems with different people.
+nomed: so what did he tell you to do?
+you: he said i need to think positive.
+nomed: he didn't give you any medication?
+you: i hate medication. it makes me feel different.
+nomed: so how do you think positive?
+you: i think about nice things.
+nomed: like what?
+you: like a day at the beach, with my toes in the sand.
+nomed: how did you do that?
+you: it's a paper cut.
+nomed: paper can be dangerous.
+you: it hurts, too.
+nomed: paper cuts can hurt a lot.
+you: where are the band-aids?
+nomed: i think they're in the medicine cabinet.
+you: it's on the tip of my finger.
+nomed: a band-aid might not work.
+you: i must not use this finger until the cut heals.
+nomed: it might take a day or two to heal.
+you: oh, yes.
+nomed: i can't stand cigarette smoke.
+you: it smells so bad.
+nomed: one cigarette stinks up the whole sidewalk.
+you: smokers think they are so cool.
+nomed: they are so weak.
+you: a little cigarette controls them.
+nomed: they look so stupid taking a puff.
+you: and then they blow smoke out of their mouth.
+nomed: they think it's cool.
+you: cigarettes stink.
+nomed: yes, i do.
+you: how did you get it?
+nomed: my sister had a cold. she gave it to me.
+you: have you taken anything for your cold?
+nomed: no, i just blow my nose a lot.
+you: your nose is stopped up?
+nomed: yes. i have to breathe through my mouth.
+you: have you tried nose drops?
+nomed: no, i don't like nose drops.
+you: they work great.
+nomed: i don't care. i don't like to put drops in my nose.
+you: sure.
+nomed: thank you.
+you: you shouldn't lie in the sun for too long.
+nomed: i want to get a tan. i don't want to look so pale.
+you: what's wrong with looking pale?
+nomed: people think you might be sick.
+you: who thinks that?
+nomed: i don't know.
+you: it's better to be pale than to have skin cancer.
+nomed: i know that.
+you: so why are you arguing with me? don't lie in the sun too long!
+nomed: of course you can.
+you: i don't have enough will power.
+nomed: of course you do.
+you: i wish i had never started.
+nomed: so does every smoker.
+you: i've tried to quit so many times.
+nomed: so has everyone else.
+you: nothing seems to work.
+nomed: all it takes is will power, and you have it.
+you: then why can't i quit?
+nomed: you have to believe in yourself.
+you: what did you do?
+nomed: i got out of my car.
+you: that's it?
+nomed: i injured my back one time just by sneezing.
+you: you should see a doctor.
+nomed: my doctor said i need surgery.
+you: so?
+nomed: so, forget it.
+you: you don't have the money?
+nomed: i have no insurance.
+you: maybe a back rub would help.
+nomed: three packs of what?
+you: cigarettes, of course.
+nomed: how can he do that?
+you: when he is almost finished with one cigarette, he uses it to light another.
+nomed: he's a chain smoker.
+you: he's been a chain smoker for 30 years.
+nomed: that's unbelievable. can he still breathe?
+you: he can, but the people around him can't.
+nomed: how can he still be alive?
+you: his doctor says his heart and lungs are strong and healthy.
+nomed: maybe i should start smoking.
+you: it's such a chore.
+nomed: brush, brush. spit, spit.
+you: what did they do in the old days?
+nomed: they brushed with their fingers.
+you: they also ate with their fingers!
+nomed: why do they call it the good old days?
+you: maybe because they didn't have to brush and floss.
+nomed: who invented flossing?
+you: a dentist, i'm sure.
+nomed: i hate flossing more than brushing!
+you: i can't wait till all my teeth fall out.
+nomed: this trail is hard to climb.
+you: especially on a hot day like this.
+nomed: i can't believe we haven't seen any animals.
+you: thank goodness! i don't want to see any wild animals.
+nomed: all we've seen so far is a couple of lizards.
+you: we're hiking to lose weight, not to see goats and bears.
+nomed: i bet i've lost a couple of pounds already.
+you: all you've lost is some sweat.
+nomed: i haven't even lost one pound of fat?
+you: if you want to lose fat, you've got to do this hike every day.
+nomed: okay, but let's hike in town. at least there are cats and dogs to see.
+you: pimples suck.
+nomed: it seems like i get a new pimple almost every day.
+you: maybe it's something in your diet.
+nomed: no, i eat the same things day after day.
+you: then maybe it's in your genes.
+nomed: you might be right.
+you: do pimples run in your family?
+nomed: not that i've noticed.
+you: well, maybe it's from the pollution in the air.
+nomed: whatever the cause, i hate seeing them on my face.
+you: well, on the bright side, they're fun to pop.
+nomed: i don't believe anything i don't see with my own eyes.
+you: you can't believe what you hear on tv or radio.
+nomed: you can't believe what you read in the newspapers.
+you: everyone tells you a different story about the same thing.
+nomed: three different people will give you three different stories.
+you: and the government will give you a fourth story.
+nomed: yes, like the government says not to worry about covid.
+you: but covid just killed 20 people in Canada.
+nomed: the government says we have nothing to worry about.
+you: then why are some schools telling the kids to stay home?
+nomed: the government says to wash our hands frequently, and we'll all be okay.
+you: i wasn't picking my nose.
+nomed: what were you doing?
+you: i was scratching my nose.
+nomed: i think i know the difference between picking and scratching.
+you: okay, mom, maybe i was picking it a little bit.
+nomed: use a tissu next time.
+you: i didn't have a tissu.
+nomed: then wait till you find a tissu.
+you: i couldn't wait. it was an emergency.
+nomed: oh, really? maybe you should have called 911.
+you: it wasn't that kind of emergency.
+nomed: yes, it's covered with crud.
+you: i'm going to clean it.
+nomed: don't use water on it!
+you: i'll use a damp cloth.
+nomed: don't let water get into any of the cracks.
+you: i'll squeeze the cloth so it's almost dry.
+nomed: don't rub the numbers off the remote.
+you: i will rub gently but firmly.
+nomed: do it quickly, please, so i can change channels during commercials.
+you: i'll give it back to you in a couple of minutes.
+nomed: maybe we should put it in a plastic bag to keep it clean.
+you: what's the matter?
+nomed: i was on a plane.
+you: so?
+nomed: so, every time the plane goes up, my ear starts to hurt.
+you: that's no good.
+nomed: sometimes the pain goes away, and sometimes it doesn't.
+you: have you seen a doctor?
+nomed: i've been to two doctors.
+you: and they couldn't fix your problem?
+nomed: they both said i have to live with it.
+you: or you can stay off planes.
+nomed: did she get a nice job?
+you: she got an everything job!
+nomed: what do you mean?
+you: a team of doctors gave her a whole new face.
+nomed: why did they do that?
+you: a mad dog bit most of her face off.
+nomed: oh, that's terrible. what does she look like now?
+you: her face is really fat, but they say the swelling will go down.
+nomed: and then will she look normal again?
+you: i guess so.
+nomed: thank you for modern medicine.
+you: what's wrong with it?
+nomed: it aches most of the time.
+you: what do you think it is?
+nomed: i don't know. i think it's old age.
+you: if it's old age, why don't both of your hands hurt?
+nomed: that's a good question. maybe it's not old age.
+you: are you right-handed?
+nomed: yes.
+you: you're wearing out your right hand. stop using it so much.
+nomed: but i do all my writing with my right hand.
+you: start typing instead. that way your left hand will do half the work.
