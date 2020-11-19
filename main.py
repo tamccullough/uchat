@@ -33,7 +33,7 @@ chats = Flask(__name__)
 
 def clean_punc(sentence):
     exclude = set(string.punctuation)
-    sentence = ''.join(ch for ch in s if ch not in exclude)
+    sentence = ''.join(ch for ch in sentence if ch not in exclude)
     return sentence
 
 def process_sentence(sentence):
@@ -95,7 +95,7 @@ def generate():
     #replies
     replies = [process_sentence(x) for x in chats[chats['subject'] == 'reply']['question']]
     replies_responses = [process_sentence(x) for x in chats[chats['subject'] == 'reply']['answer']]
-
+    print(replies)
     month_num = datetime.today().strftime('%m')
     sentence = history['text'].tail(1).values[0]
     print(sentence)
@@ -106,11 +106,11 @@ def generate():
     elif new_sentence in thanks:
         reply = random.choice((thanks_responses))
     elif new_sentence in replies:
-        reply = chats[chats['question'] == sentence]['answer'].values[0]
+        reply = random.choice((replies_responses))
     else:
-        reply = cbu.generate_text(start_string=string+u'\n',temperature=0.55)
+        reply = cbu.generate_text(start_string=sentence+u'\n',temperature=0.55)
 
-    reply[0].upper()+reply[1:]
+    reply = reply[0].upper()+reply[1:]
 
     num = history['num'].tail(1).values[0]
     nomed_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'nomed',reply]],columns=history.columns)
