@@ -5,11 +5,11 @@ from flask import Blueprint, flash, g, redirect, render_template, request, sessi
 
 import calendar
 import cb_main as cbu
-import spacy_processing as sp
 
 import numpy as np
 import pandas as pd
 import random
+import string
 
 from datetime import date, datetime, timedelta
 
@@ -30,6 +30,11 @@ month, day, weekday = cbu.get_weekday()
 year = datetime.today().strftime('%Y')
 
 chats = Flask(__name__)
+
+def clean_punc(sentence):
+    exclude = set(string.punctuation)
+    sentence = ''.join(ch for ch in s if ch not in exclude)
+    return sentence
 
 # index root for the chatbot
 @chats.route('/')
@@ -77,14 +82,14 @@ def generate():
     history = pd.read_csv('datasets/chat_history.csv')
 
     #greetings
-    greetings = [sp.remove_punctuation(x) for x in chats[chats['subject'] == 'greeting']['question']]
-    greetings_responses = [sp.remove_punctuation(x) for x in chats[chats['subject'] == 'greeting']['answer']]
+    greetings = [clean_punc(x) for x in chats[chats['subject'] == 'greeting']['question']]
+    greetings_responses = [clean_punc(x) for x in chats[chats['subject'] == 'greeting']['answer']]
     #thanks
-    thanks = [sp.remove_punctuation(x) for x in chats[chats['subject'] == 'thanks']['question']]
-    thanks_responses = [sp.remove_punctuation(x) for x in chats[chats['subject'] == 'thanks']['answer']]
+    thanks = [clean_punc(x) for x in chats[chats['subject'] == 'thanks']['question']]
+    thanks_responses = [clean_punc(x) for x in chats[chats['subject'] == 'thanks']['answer']]
     #replies
-    replies = [sp.remove_punctuation(x) for x in chats[chats['subject'] == 'reply']['question']]
-    replies_responses = [sp.remove_punctuation(x) for x in chats[chats['subject'] == 'reply']['answer']]
+    replies = [clean_punc(x) for x in chats[chats['subject'] == 'reply']['question']]
+    replies_responses = [clean_punc(x) for x in chats[chats['subject'] == 'reply']['answer']]
 
     month_num = datetime.today().strftime('%m')
     sentence = history['text'].tail(1).values[0]
@@ -92,15 +97,15 @@ def generate():
     '''string = sentence.replace('?','.')
     string = sentence.replace('!','.')
     string = string.split('.')[0]'''
-    string = sp.remove_punctuation(sentence)
+    new_sentence = clean_punc(sentence)
 
     print(sp.find_subject(string))
 
-    if string in greetings:
+    if new_sentence in greetings:
         reply = random.choice((greetings_responses))
-    elif string in thanks:
+    elif new_sentence in thanks:
         reply = random.choice((thanks_responses))
-    elif string in replies:
+    elif new_sentence in replies:
         reply = chats[chats['question'] == sentence]['answer'].values[0]
     else:
         reply = cbu.generate_text(start_string=string+u'\n',temperature=0.55)
