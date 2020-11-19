@@ -115,8 +115,8 @@ def generate():
     num = history['num'].tail(1).values[0]
     nomed_chat = pd.DataFrame([[num+1, month_num, day, year, weekday, 'nomed',reply]],columns=history.columns)
     history = pd.concat([history,nomed_chat])
-    print('dataframe 2\n',chats,'\n')
-    print('\nNOW',post_time, today_other,month, day, weekday)
+
+    print(reply)
 
     history.to_csv('datasets/chat_history.csv',index=False)
     chats = pd.read_csv('datasets/chat_history.csv')
