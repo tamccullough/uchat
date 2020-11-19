@@ -36,6 +36,11 @@ def clean_punc(sentence):
     sentence = ''.join(ch for ch in s if ch not in exclude)
     return sentence
 
+def process_sentence(sentence):
+    s = clean_punc(sentence)
+    sentence = s.lower()
+    return sentence
+
 # index root for the chatbot
 @chats.route('/')
 def index():
@@ -82,24 +87,19 @@ def generate():
     history = pd.read_csv('datasets/chat_history.csv')
 
     #greetings
-    greetings = [clean_punc(x) for x in chats[chats['subject'] == 'greeting']['question']]
-    greetings_responses = [clean_punc(x) for x in chats[chats['subject'] == 'greeting']['answer']]
+    greetings = [process_sentence(x) for x in chats[chats['subject'] == 'greeting']['question']]
+    greetings_responses = [process_sentence(x) for x in chats[chats['subject'] == 'greeting']['answer']]
     #thanks
-    thanks = [clean_punc(x) for x in chats[chats['subject'] == 'thanks']['question']]
-    thanks_responses = [clean_punc(x) for x in chats[chats['subject'] == 'thanks']['answer']]
+    thanks = [process_sentence(x) for x in chats[chats['subject'] == 'thanks']['question']]
+    thanks_responses = [process_sentence(x) for x in chats[chats['subject'] == 'thanks']['answer']]
     #replies
-    replies = [clean_punc(x) for x in chats[chats['subject'] == 'reply']['question']]
-    replies_responses = [clean_punc(x) for x in chats[chats['subject'] == 'reply']['answer']]
+    replies = [process_sentence(x) for x in chats[chats['subject'] == 'reply']['question']]
+    replies_responses = [process_sentence(x) for x in chats[chats['subject'] == 'reply']['answer']]
 
     month_num = datetime.today().strftime('%m')
     sentence = history['text'].tail(1).values[0]
     print(sentence)
-    '''string = sentence.replace('?','.')
-    string = sentence.replace('!','.')
-    string = string.split('.')[0]'''
-    new_sentence = clean_punc(sentence)
-
-    print(sp.find_subject(string))
+    new_sentence = process_sentence(sentence)
 
     if new_sentence in greetings:
         reply = random.choice((greetings_responses))
