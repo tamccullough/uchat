@@ -95,7 +95,7 @@ def generate():
     #replies
     replies = [process_sentence(x) for x in chats[chats['subject'] == 'reply']['question']]
     replies_responses = [process_sentence(x) for x in chats[chats['subject'] == 'reply']['answer']]
-    print(replies)
+
     month_num = datetime.today().strftime('%m')
     sentence = history['text'].tail(1).values[0]
     print(sentence)
@@ -108,7 +108,7 @@ def generate():
     elif new_sentence in replies:
         reply = random.choice((replies_responses))
     else:
-        reply = cbu.generate_text(start_string=sentence+u'\n',temperature=0.55)
+        reply = cbu.generate_text(new_sentence, temperature=0.35)
 
     reply = reply[0].upper()+reply[1:]
 

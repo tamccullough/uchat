@@ -9,9 +9,9 @@ import time
 
 from datetime import date, datetime, timedelta
 
-chats_predict = tf.keras.models.load_model('model/chats_saved.h5', compile=False)
+model = tf.keras.models.load_model('model/chats_saved.h5', compile=False)
 
-path_to_file = 'datasets/chats.txt'# Read, then decode for py2 compat.
+path_to_file = 'datasets/chats_speaker.txt'# Read, then decode for py2 compat.
 text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
 vocab = sorted(set(text))
 
@@ -25,45 +25,49 @@ idx2char = np.array(vocab)
 
 text_as_int = np.array([char2idx[c] for c in text])
 
-def generate_text(start_string,temperature):
-    # Evaluation step (generating text using the learned model)
+def generate_text(start_string, temperature):
+  start_string = 'you: '+start_string
+  # Evaluation step (generating text using the learned model)
 
-    # Number of characters to generate
-    num_generate = 250
+  # Number of characters to generate
+  num_generate = 250
 
-    # Converting our start string to numbers (vectorizing)
-    input_eval = [char2idx[s] for s in start_string]
-    input_eval = tf.expand_dims(input_eval, 0)
+  # Converting our start string to numbers (vectorizing)
+  input_eval = [char2idx[s] for s in start_string]
+  input_eval = tf.expand_dims(input_eval, 0)
 
-    # Empty string to store our results
-    text_generated = []
+  # Empty string to store our results
+  text_generated = []
 
-    # Low temperatures results in more predictable text.
-    # Higher temperatures results in more surprising text.
-    # Experiment to find the best setting.
+  # Low temperatures results in more predictable text.
+  # Higher temperatures results in more surprising text.
+  # Experiment to find the best setting.
 
-    # Here batch size == 1
-    chats_predict.reset_states()
-    for i in range(num_generate):
-        predictions = chats_predict(input_eval)
-        # remove the batch dimension
-        predictions = tf.squeeze(predictions, 0)
+  # Here batch size == 1
+  model.reset_states()
+  for i in range(num_generate):
+    predictions = model(input_eval)
+    # remove the batch dimension
+    predictions = tf.squeeze(predictions, 0)
 
-        # using a categorical distribution to predict the character returned by the model
-        predictions = predictions / temperature
-        predicted_id = tf.random.categorical(predictions, num_samples=1)[-1,0].numpy()
+    # using a categorical distribution to predict the character returned by the model
+    predictions = predictions / temperature
+    predicted_id = tf.random.categorical(predictions, num_samples=1)[-1,0].numpy()
 
-        # We pass the predicted character as the next input to the model
-        # along with the previous hidden state
-        input_eval = tf.expand_dims([predicted_id], 0)
+    # We pass the predicted character as the next input to the model
+    # along with the previous hidden state
+    input_eval = tf.expand_dims([predicted_id], 0)
 
-        text_generated.append(idx2char[predicted_id])
-    responses = ''.join(text_generated)
+    text_generated.append(idx2char[predicted_id])
 
-    if responses.splitlines()[0] == '':
-        return responses.splitlines()[1]
-    else:
-        return responses.splitlines()[0]
+  response = ''.join(text_generated)
+
+  print(response)
+
+  if response.splitlines()[0] == '':
+    return response.splitlines()[1]#.split(':')[1]
+  else:
+    return response.splitlines()[0]#.split(':')[1]
 
 # get the weather
 from pyowm import OWM
